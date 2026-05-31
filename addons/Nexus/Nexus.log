@@ -1,0 +1,245 @@
+2026-05-30 18:30:40.290  [Core]          [INFO]      Game: "C:\Guild Wars 2\Gw2-64.exe" 
+                                                     Module: C:\Guild Wars 2\d3d11.dll
+                                                     Nexus 2026.2.17.1210 release/main
+                                                     Entry method: 1
+2026-05-30 18:30:40.292  [Core]          [INFO]      Loaded System DLL: C:\WINDOWS\system32\d3d11.dll
+2026-05-30 18:30:40.298  [Networking]    [DEBUG]     CHttpClient(BaseURL: https://api.raidcore.gg, CacheDirectory: C:\Guild Wars 2\addons\common\api.raidcore.gg, CacheLifetime: 300)
+2026-05-30 18:30:41.151  [DataLink]      [INFO]      Created public shared resource: "DL_MUMBLE_LINK" (Underlying name: "MumbleLink")
+2026-05-30 18:30:41.151  [DataLink]      [INFO]      Created internal shared resource: "DL_MUMBLE_LINK_IDENTITY"
+2026-05-30 18:30:41.151  [DataLink]      [INFO]      Created public shared resource: "DL_NEXUS_LINK" (Underlying name: "DL_NEXUS_LINK_6456")
+2026-05-30 18:30:41.316  [Updater]       [INFO]      Installed Build of Nexus is up-to-date.
+2026-05-30 18:30:41.522  [Loader]        [TRACE]     Processing changes after waiting for 0ms.
+2026-05-30 18:30:41.647  [DataLink]      [INFO]      Created internal shared resource: "ADDONAPI_1"
+2026-05-30 18:30:45.333  [Loader]        [INFO]      Loaded addon: ArcDPS.dll
+                                                     Signature: -617263
+                                                     Address Space: 00007FFCFE1F0000 - 00007FFCFE356000
+                                                     API Version: 1
+                                                     Took 3684836µs to load.
+2026-05-30 18:30:45.348  [Loader]        [WARNING]   "arcdps_unofficial_extras.dll" is not a Nexus-compatible library. Incompatible.
+2026-05-30 18:30:45.357  [DataLink]      [INFO]      Created internal shared resource: "ADDONAPI_6"
+2026-05-30 18:30:45.357  [Better Chat]   [INFO]      Loading Better Chat v2026.4.10.1149
+2026-05-30 18:30:45.363  [Networking]    [DEBUG]     CHttpClient(BaseURL: https://api.github.com, CacheDirectory: C:\Guild Wars 2\addons\common\api.github.com, CacheLifetime: 1800)
+2026-05-30 18:30:46.450  [Better Chat]   [INFO]      File 'C:\Guild Wars 2\addons\Better Chat\ping.wav' already exists and overwrite is set to false
+2026-05-30 18:30:46.583  [Loader]        [INFO]      Loaded addon: Better_Chat.dll
+                                                     Signature: -621306741
+                                                     Address Space: 00007FFCFA350000 - 00007FFCFA431000
+                                                     API Version: 6
+                                                     Took 1225373µs to load.
+2026-05-30 18:30:46.586  [DataLink]      [INFO]      Created internal shared resource: "ADDONAPI_3"
+2026-05-30 18:30:46.700  [Loader]        [INFO]      Loaded addon: Fast_Load.dll
+                                                     Signature: 67000001
+                                                     Address Space: 00007FFCF95C0000 - 00007FFCF9649000
+                                                     API Version: 3
+                                                     Took 112907µs to load.
+2026-05-30 18:30:48.239  [Boss Health]   [INFO]      Loaded species defaults: 136 breakbar entries, 1 barrier-breakbar entries
+2026-05-30 18:30:48.240  [Loader]        [INFO]      Loaded addon: bosshealth.dll
+                                                     Signature: -2125476477
+                                                     Address Space: 00007FFCE9510000 - 00007FFCE9799000
+                                                     API Version: 6
+                                                     Took 1529825µs to load.
+2026-05-30 18:30:48.251  [Loader]        [WARNING]   "Boon_Table.dll" is not a Nexus-compatible library. Incompatible.
+2026-05-30 18:30:48.261  [Loader]        [WARNING]   "d3d9_arcdps_table.dll" is not a Nexus-compatible library. Incompatible.
+2026-05-30 18:30:48.265  [Castbar Clarity]  [INFO]      Castbar Clarity v0.3.5 load
+2026-05-30 18:30:48.337  [Loader]           [INFO]      Loaded addon: Castbar_Clarity.dll
+                                                        Signature: -308316617
+                                                        Address Space: 00007FFCEFB50000 - 00007FFCEFC44000
+                                                        API Version: 6
+                                                        Took 71258µs to load.
+2026-05-30 18:30:48.355  [Log Uploader]     [INFO]      Loading log-uploader
+2026-05-30 18:30:48.359  [Log Uploader]     [INFO]      Loaded log-uploader
+2026-05-30 18:30:48.360  [Loader]           [INFO]      Loaded addon: Log_Uploader.dll
+                                                        Signature: -69421
+                                                        Address Space: 00007FFCC4CD0000 - 00007FFCC5230000
+                                                        API Version: 6
+                                                        Took 4664µs to load.
+2026-05-30 18:30:48.363  [Loader]           [WARNING]   "Mechanics_Log.dll" is not a Nexus-compatible library. Incompatible.
+2026-05-30 18:30:48.375  [Loader]           [INFO]      Loaded addon: Range_Indicators.dll
+                                                        Signature: 31
+                                                        Address Space: 00007FFCF1E20000 - 00007FFCF1ED7000
+                                                        API Version: 3
+                                                        Took 1606µs to load.
+2026-05-30 18:30:48.384  [Reffect (alpha)]  [INFO]      Reffect v0.10.2 load
+2026-05-30 18:30:48.384  [Reffect (alpha)]  [DEBUG]     Thread reffect-texture-loader spawn
+2026-05-30 18:30:48.384  [Reffect (alpha)]  [DEBUG]     Reloading fonts
+2026-05-30 18:30:48.562  [Reffect (alpha)]  [INFO]      Loading settings from "C:\Guild Wars 2\addons\reffect\settings.json"
+2026-05-30 18:30:48.563  [Reffect (alpha)]  [INFO]      Loaded settings from v0.10.2
+2026-05-30 18:30:48.563  [Reffect (alpha)]  [INFO]      Loading packs from "C:\Guild Wars 2\addons\reffect\packs"
+2026-05-30 18:30:48.563  [Reffect (alpha)]  [DEBUG]     Thread reffect-context-worker spawn
+2026-05-30 18:30:48.770  [Reffect (alpha)]  [INFO]      Added pack "KaedalusReffectMegapack" from "C:\Guild Wars 2\addons\reffect\packs\KaedalusReffectMegapack.json" (schema v1)
+2026-05-30 18:30:48.771  [Reffect (alpha)]  [INFO]      Added pack "my totem" from "C:\Guild Wars 2\addons\reffect\packs\my totem.json" (schema v1)
+2026-05-30 18:30:48.773  [Reffect (alpha)]  [INFO]      Added pack "tempo" from "C:\Guild Wars 2\addons\reffect\packs\tempo.json" (schema v1)
+2026-05-30 18:30:48.775  [Reffect (alpha)]  [INFO]      Added pack "totem demo: generic buffs (down)" from "C:\Guild Wars 2\addons\reffect\packs\totem-demo-down.json" (schema v1)
+2026-05-30 18:30:48.778  [Reffect (alpha)]  [INFO]      Added pack "totem demo: generic buffs (right)" from "C:\Guild Wars 2\addons\reffect\packs\totem-demo-right.json" (schema v1)
+2026-05-30 18:30:48.779  [Reffect (alpha)]  [INFO]      Added pack "Troub" from "C:\Guild Wars 2\addons\reffect\packs\Troub.json" (schema v1)
+2026-05-30 18:30:49.102  [Reffect (alpha)]  [INFO]      Added pack "Venny Megapack" from "C:\Guild Wars 2\addons\reffect\packs\Venny Megapack.json" (schema v1)
+2026-05-30 18:30:49.104  [Reffect (alpha)]  [INFO]      Loaded 7 packs
+2026-05-30 18:30:49.104  [Reffect (alpha)]  [DEBUG]     Updating filters for map id 0
+2026-05-30 18:30:49.104  [Loader]           [INFO]      Loaded addon: reffect.dll
+                                                        Signature: -188061056
+                                                        Address Space: 00007FFCC46D0000 - 00007FFCC48FD000
+                                                        API Version: 6
+                                                        Took 720241µs to load.
+2026-05-30 18:30:49.150  [TaimiHUD]         [INFO]      Loading taimi_hud 0.3.4 by kittywitch, arcnmx, Connicpu
+2026-05-30 18:30:49.150  [TaimiHUD]         [INFO]      ::exports::runtime; Detected language en for internationalization
+2026-05-30 18:30:49.150  [TaimiHUD]         [DEBUG]     i18n_embed: Searching for available languages, found language file: "en/taimi_hud.ftl"
+2026-05-30 18:30:49.150  [TaimiHUD]         [DEBUG]     i18n_embed: Searching for available languages, found language file: "fr/taimi_hud.ftl"
+2026-05-30 18:30:49.150  [TaimiHUD]         [DEBUG]     i18n_embed: Attempting to load language file: "en/taimi_hud.ftl"
+2026-05-30 18:30:49.150  [TaimiHUD]         [DEBUG]     i18n_embed::fluent: Loaded language file: "en/taimi_hud.ftl" for language: "en"
+2026-05-30 18:30:49.151  [TaimiHUD]         [DEBUG]     i18n_embed: Attempting to load language file: "fr/taimi_hud.ftl"
+2026-05-30 18:30:49.151  [TaimiHUD]         [DEBUG]     i18n_embed::fluent: Loaded language file: "fr/taimi_hud.ftl" for language: "fr"
+2026-05-30 18:30:49.152  [TaimiHUD]         [DEBUG]     ::exports::runtime::textures; texture loader ThreadId(1) started
+2026-05-30 18:30:49.154  [TaimiHUD]         [DEBUG]     ::controller::timers; Preparing to setup timers
+2026-05-30 18:30:49.155  [TaimiHUD]         [INFO]      ::controller::timers; Set up 0 timers.
+2026-05-30 18:30:49.167  [Loader]           [INFO]      Loaded addon: TaimiHUD.dll
+                                                        Signature: -1932638909
+                                                        Address Space: 00007FFCC2EF0000 - 00007FFCC3639000
+                                                        API Version: 6
+                                                        Took 16624µs to load.
+2026-05-30 18:30:49.171  [Loader]           [INFO]      Loaded addon: arcdps_integration64.dll
+                                                        Signature: -19392669
+                                                        Address Space: 00007FFD03380000 - 00007FFD033BE000
+                                                        API Version: 6
+                                                        Took 653µs to load.
+2026-05-30 18:30:49.175  [Loader]           [INFO]      Deployed ArcDPS Integration. Result: 0
+2026-05-30 18:30:49.175  [Loader]           [INFO]      Received ArcDPS plugins.
+2026-05-30 18:30:49.179  [VfxDenoiser]      [DEBUG]     <c=#00ff00>VfxDenoiser loading</c>
+2026-05-30 18:30:49.185  [VfxDenoiser]      [DEBUG]     Loaded settings.json
+2026-05-30 18:30:49.339  [Loader]           [INFO]      Loaded addon: VfxDenoiser.dll
+                                                        Signature: -51092108
+                                                        Address Space: 00007FFCF91C0000 - 00007FFCF9258000
+                                                        API Version: 6
+                                                        Took 159253µs to load.
+2026-05-30 18:30:49.493  [Reffect (alpha)]  [DEBUG]     Reloading fonts
+2026-05-30 18:30:49.493  [Reffect (alpha)]  [DEBUG]     Reloading fonts
+2026-05-30 18:30:49.526  [TaimiHUD]         [DEBUG]     ::exports::runtime::textures; Loading Some(Png) texture for taimihud_glow256
+2026-05-30 18:30:53.703  [TaimiHUD]         [INFO]      ::render::state; reloading renderer...
+2026-05-30 18:30:53.778  [TaimiHUD]         [INFO]      ::exports::arcdps; skipping get_update_url, Nexus is preferred
+2026-05-30 18:30:53.778  [TaimiHUD]         [INFO]      ::exports::arcdps::r#extern; ignoring arcdps, nexus is available
+2026-05-30 18:30:54.718  [Updater]          [INFO]      Successfully updated TaimiHUD.
+2026-05-30 18:30:54.718  [Loader]           [INFO]      Update available for "C:\Guild Wars 2\addons\TaimiHUD.dll".
+2026-05-30 18:30:54.730  [TaimiHUD]         [DEBUG]     Shutdown requested...
+2026-05-30 18:30:54.730  [TaimiHUD]         [INFO]      Unloading addon
+2026-05-30 18:30:54.732  [TaimiHUD]         [DEBUG]     ::exports::runtime::textures; texture loader received shutdown request
+2026-05-30 18:30:54.733  [TaimiHUD]         [DEBUG]     ::controller; Controller received event: Quit
+2026-05-30 18:30:54.800  [TaimiHUD]         [WARNING]   timed out waiting for render quit
+2026-05-30 18:30:54.800  [TaimiHUD]         [INFO]      Waiting for controller shutdown...
+2026-05-30 18:30:54.800  [TaimiHUD]         [WARNING]   Unloading render state from a background thread
+2026-05-30 18:30:54.800  [TaimiHUD]         [WARNING]   ::exports::runtime::textures; beware of leaky textures
+2026-05-30 18:30:54.801  [TaimiHUD]         [DEBUG]     Unload complete
+2026-05-30 18:30:54.817  [Loader]           [INFO]      Unloaded addon: TaimiHUD.dll (Took 86962µs.)
+2026-05-30 18:30:54.995  [Loader]           [TRACE]     Processing changes after waiting for 154ms.
+2026-05-30 18:30:55.381  [TaimiHUD]         [INFO]      Loading taimi_hud 0.3.4 by arcnmx, kittywitch, Connicpu
+2026-05-30 18:30:55.381  [TaimiHUD]         [INFO]      ::exports::runtime; Detected language en for internationalization
+2026-05-30 18:30:55.381  [TaimiHUD]         [DEBUG]     i18n_embed: Searching for available languages, found language file: "en/taimi_hud.ftl"
+2026-05-30 18:30:55.381  [TaimiHUD]         [DEBUG]     i18n_embed: Searching for available languages, found language file: "fr/taimi_hud.ftl"
+2026-05-30 18:30:55.381  [TaimiHUD]         [DEBUG]     i18n_embed: Attempting to load language file: "en/taimi_hud.ftl"
+2026-05-30 18:30:55.381  [TaimiHUD]         [DEBUG]     i18n_embed::fluent: Loaded language file: "en/taimi_hud.ftl" for language: "en"
+2026-05-30 18:30:55.381  [TaimiHUD]         [DEBUG]     i18n_embed: Attempting to load language file: "fr/taimi_hud.ftl"
+2026-05-30 18:30:55.381  [TaimiHUD]         [DEBUG]     i18n_embed::fluent: Loaded language file: "fr/taimi_hud.ftl" for language: "fr"
+2026-05-30 18:30:55.382  [TaimiHUD]         [DEBUG]     ::exports::runtime::textures; texture loader ThreadId(1) started
+2026-05-30 18:30:55.386  [TaimiHUD]         [DEBUG]     ::controller::timers; Preparing to setup timers
+2026-05-30 18:30:55.387  [TaimiHUD]         [INFO]      ::controller::timers; Set up 0 timers.
+2026-05-30 18:30:55.402  [Loader]           [INFO]      Loaded addon: TaimiHUD.dll
+                                                        Signature: -1932638909
+                                                        Address Space: 00007FFCC2EF0000 - 00007FFCC3639000
+                                                        API Version: 6
+                                                        Took 21509µs to load.
+2026-05-30 18:30:55.404  [Reffect (alpha)]  [DEBUG]     Reloading fonts
+2026-05-30 18:30:55.404  [Reffect (alpha)]  [DEBUG]     Reloading fonts
+2026-05-30 18:30:55.486  [TaimiHUD]         [DEBUG]     ::exports::runtime::textures; Loading Some(Png) texture for taimihud_glow256
+2026-05-30 18:31:01.599  [TaimiHUD]         [INFO]      ::exports::arcdps::unofficial_extras; ignoring arcdps_unofficial_extras, nexus is available
+2026-05-30 18:31:18.319  [Reffect (alpha)]  [DEBUG]     Skill data initialized
+2026-05-30 18:31:18.520  [Reffect (alpha)]  [WARNING]   Failed to get handle for texture file 2175059
+2026-05-30 18:31:18.520  [Reffect (alpha)]  [WARNING]   Failed to get handle for texture file 2175058
+2026-05-30 18:31:18.520  [Reffect (alpha)]  [WARNING]   Failed to get handle for texture file 2175060
+2026-05-30 18:31:18.535  [TaimiHUD]         [DEBUG]     ::render::machine; loading initial keybinds
+2026-05-30 18:31:18.538  [TaimiHUD]         [DEBUG]     ::space::engine; setting up space engine...
+2026-05-30 18:31:18.538  [TaimiHUD]         [DEBUG]     ::controller; Controller received event: GameplayStatus
+2026-05-30 18:31:18.538  [TaimiHUD]         [DEBUG]     ::space::dx11::backend; Getting d3d11 device swap chain
+2026-05-30 18:31:18.538  [TaimiHUD]         [DEBUG]     ::controller; Map changed from None to 1206
+2026-05-30 18:31:18.538  [TaimiHUD]         [DEBUG]     ::resources::shader::loader; Beginning shader setup!
+2026-05-30 18:31:18.663  [TaimiHUD]         [INFO]      ::resources::shader::loader; Finished shader setup. 7 vertex shaders, 6 pixel shaders loaded!
+2026-05-30 18:31:18.664  [TaimiHUD]         [DEBUG]     ::render::machine::rtapi; RTAPI unavailable: extension runtime unavailable
+2026-05-30 18:31:18.664  [TaimiHUD]         [DEBUG]     ::space::engine; entering map 1206
+2026-05-30 18:31:18.664  [TaimiHUD]         [INFO]      ::space::pack::pack; Loaded 0 trails and 0 POIs
+2026-05-30 18:31:18.664  [TaimiHUD]         [INFO]      ::controller::pathing; Pre-loading all paths...
+2026-05-30 18:31:18.664  [Reffect (alpha)]  [DEBUG]     Updating filters for map id 1206
+2026-05-30 18:31:18.665  [TaimiHUD]         [DEBUG]     ::controller::pathing; Loading pathing pack AersiaNightingale_PEAK-Infallible-Markers.zip...
+2026-05-30 18:31:18.667  [Reffect (alpha)]  [DEBUG]     Item data initialized
+2026-05-30 18:31:18.678  [TaimiHUD]         [DEBUG]     ::space::pack::pack; Preparing pack #0 PEAK Markers for rendering...
+2026-05-30 18:31:39.131  [TaimiHUD]         [DEBUG]     ::controller; Controller received event: GameplayStatus
+2026-05-30 18:31:39.131  [TaimiHUD]         [DEBUG]     ::controller; TODO: clear timers on loading screen? Intermission { prev_map_id: Some(1206) }
+2026-05-30 18:31:44.643  [TaimiHUD]         [DEBUG]     ::space::engine; entering map 1442
+2026-05-30 18:31:44.643  [TaimiHUD]         [DEBUG]     ::controller; Controller received event: GameplayStatus
+2026-05-30 18:31:44.644  [TaimiHUD]         [INFO]      ::space::pack::pack; Loaded 0 trails and 0 POIs
+2026-05-30 18:31:44.644  [TaimiHUD]         [DEBUG]     ::controller; Map changed from Some(1206) to 1442
+2026-05-30 18:31:44.688  [Reffect (alpha)]  [DEBUG]     Updating filters for map id 1442
+2026-05-30 18:35:11.665  [TaimiHUD]         [DEBUG]     ::controller; Controller received event: GameplayStatus
+2026-05-30 18:35:11.665  [TaimiHUD]         [DEBUG]     ::controller; TODO: clear timers on loading screen? Intermission { prev_map_id: Some(1442) }
+2026-05-30 18:35:17.928  [TaimiHUD]         [DEBUG]     ::space::engine; entering map 1452
+2026-05-30 18:35:17.928  [TaimiHUD]         [INFO]      ::space::pack::pack; Loaded 0 trails and 0 POIs
+2026-05-30 18:35:17.928  [TaimiHUD]         [DEBUG]     ::controller; Controller received event: GameplayStatus
+2026-05-30 18:35:17.928  [TaimiHUD]         [DEBUG]     ::controller; Map changed from Some(1442) to 1452
+2026-05-30 18:35:18.331  [Reffect (alpha)]  [DEBUG]     Updating filters for map id 1452
+2026-05-30 18:36:53.971  [TaimiHUD]         [DEBUG]     ::controller; Controller received event: GameplayStatus
+2026-05-30 18:36:53.971  [TaimiHUD]         [DEBUG]     ::controller; TODO: clear timers on loading screen? Intermission { prev_map_id: Some(1452) }
+2026-05-30 18:36:55.871  [TaimiHUD]         [DEBUG]     ::space::engine; re-entering map 1452
+2026-05-30 18:36:55.871  [TaimiHUD]         [DEBUG]     ::controller; Controller received event: GameplayStatus
+2026-05-30 18:36:55.871  [TaimiHUD]         [DEBUG]     ::controller; Controller received event: GameplayStatus
+2026-05-30 18:40:15.656  [TaimiHUD]         [DEBUG]     ::controller; TODO: clear timers on loading screen? Intermission { prev_map_id: Some(1452) }
+2026-05-30 18:40:21.455  [TaimiHUD]         [DEBUG]     ::space::engine; entering map 1422
+2026-05-30 18:40:21.455  [TaimiHUD]         [INFO]      ::space::pack::pack; Loaded 0 trails and 0 POIs
+2026-05-30 18:40:21.456  [TaimiHUD]         [DEBUG]     ::controller; Controller received event: GameplayStatus
+2026-05-30 18:40:21.456  [TaimiHUD]         [DEBUG]     ::controller; Map changed from Some(1452) to 1422
+2026-05-30 18:40:21.571  [Reffect (alpha)]  [DEBUG]     Updating filters for map id 1422
+2026-05-30 18:42:06.134  [TaimiHUD]         [DEBUG]     ::controller; Controller received event: GameplayStatus
+2026-05-30 18:42:06.134  [TaimiHUD]         [DEBUG]     ::controller; TODO: clear timers on loading screen? Intermission { prev_map_id: Some(1422) }
+2026-05-30 18:42:07.584  [TaimiHUD]         [DEBUG]     ::space::engine; re-entering map 1422
+2026-05-30 18:42:07.584  [TaimiHUD]         [DEBUG]     ::controller; Controller received event: GameplayStatus
+2026-05-30 18:42:07.584  [TaimiHUD]         [DEBUG]     ::controller; Controller received event: GameplayStatus
+2026-05-30 18:44:10.17   [TaimiHUD]         [DEBUG]     ::controller; TODO: clear timers on loading screen? Intermission { prev_map_id: Some(1422) }
+2026-05-30 18:44:15.56   [TaimiHUD]         [DEBUG]     ::space::engine; entering map 1428
+2026-05-30 18:44:15.56   [TaimiHUD]         [INFO]      ::space::pack::pack; Loaded 0 trails and 0 POIs
+2026-05-30 18:44:15.56   [TaimiHUD]         [DEBUG]     ::controller; Controller received event: GameplayStatus
+2026-05-30 18:44:15.56   [TaimiHUD]         [DEBUG]     ::controller; Map changed from Some(1422) to 1428
+2026-05-30 18:44:15.245  [Reffect (alpha)]  [DEBUG]     Updating filters for map id 1428
+2026-05-30 18:51:56.916  [TaimiHUD]         [INFO]      Preparing for game exit
+2026-05-30 18:51:56.916  [TaimiHUD]         [DEBUG]     ::controller; Controller received event: Quit
+2026-05-30 18:51:56.916  [TaimiHUD]         [DEBUG]     ::exports::runtime::textures; texture loader received shutdown request
+2026-05-30 18:51:56.931  [TaimiHUD]         [DEBUG]     ::render::state; unloading space engine
+2026-05-30 18:51:56.932  [TaimiHUD]         [INFO]      Renderer unloading
+2026-05-30 18:51:56.932  [TaimiHUD]         [DEBUG]     render unload complete
+2026-05-30 18:52:00.271  [TaimiHUD]         [INFO]      Preparing for game exit
+2026-05-30 18:52:00.271  [TaimiHUD]         [DEBUG]     ::exports::runtime::textures; texture loader already shutdown?
+2026-05-30 18:52:00.271  [Core]             [CRITICAL]  SHUTDOWN BEGIN | Reason: WM_DESTROY
+2026-05-30 18:52:00.361  [Castbar Clarity]  [INFO]      Castbar Clarity v0.3.5 unload
+2026-05-30 18:52:00.361  [Castbar Clarity]  [CRITICAL]  disable_hook failed: ErrorNotInitialized
+2026-05-30 18:52:00.361  [Castbar Clarity]  [CRITICAL]  remove_hook failed: ErrorNotInitialized
+2026-05-30 18:52:00.361  [Log Uploader]     [INFO]      Unloading log-uploader
+2026-05-30 18:52:00.363  [VfxDenoiser]      [DEBUG]     <c=#ff0000>VfxDenoiser unloading</c>
+2026-05-30 18:52:00.366  [Core]             [INFO]      SHUTDOWN END
+2026-05-30 18:52:00.366  [Loader]           [INFO]      Unloaded addon: Castbar_Clarity.dll (Took 312µs.)
+2026-05-30 18:52:00.367  [Reffect (alpha)]  [INFO]      Reffect v0.10.2 unload
+2026-05-30 18:52:00.367  [Loader]           [INFO]      Unloaded addon: arcdps_integration64.dll (Took 7µs.)
+2026-05-30 18:52:00.368  [Loader]           [INFO]      Unloaded addon: Fast_Load.dll (Took 4µs.)
+2026-05-30 18:52:00.368  [Loader]           [INFO]      Unloaded addon: ArcDPS.dll (Took 0µs.)
+2026-05-30 18:52:00.370  [TaimiHUD]         [DEBUG]     Shutdown requested...
+2026-05-30 18:52:00.371  [TaimiHUD]         [INFO]      Unloading addon
+2026-05-30 18:52:00.371  [TaimiHUD]         [DEBUG]     ::exports::runtime::textures; texture loader already shutdown?
+2026-05-30 18:52:00.371  [TaimiHUD]         [INFO]      Waiting for controller shutdown...
+2026-05-30 18:52:00.371  [TaimiHUD]         [DEBUG]     Unload complete
+2026-05-30 18:52:00.371  [Reffect (alpha)]  [INFO]      Saved settings to "C:\Guild Wars 2\addons\reffect\settings.json"
+2026-05-30 18:52:00.371  [Reffect (alpha)]  [INFO]      Saving packs
+2026-05-30 18:52:00.381  [Loader]           [INFO]      Unloaded addon: Log_Uploader.dll (Took 17719µs.)
+2026-05-30 18:52:00.381  [Loader]           [INFO]      Unloaded addon: Range_Indicators.dll (Took 11043µs.)
+2026-05-30 18:52:00.411  [Loader]           [INFO]      Unloaded addon: TaimiHUD.dll (Took 40139µs.)
+2026-05-30 18:52:00.414  [Loader]           [INFO]      Unloaded addon: VfxDenoiser.dll (Took 51228µs.)
+2026-05-30 18:52:00.549  [Reffect (alpha)]  [WARNING]   Failed to suspend main thread: The handle is invalid. (0x80070006)
+2026-05-30 18:52:00.550  [Reffect (alpha)]  [DEBUG]     Waiting for texture loader
+2026-05-30 18:52:00.550  [Reffect (alpha)]  [DEBUG]     Thread reffect-texture-loader exit
+2026-05-30 18:52:00.574  [Reffect (alpha)]  [DEBUG]     Releasing 603 referenced textures
+2026-05-30 18:52:00.656  [Reffect (alpha)]  [DEBUG]     Thread reffect-context-worker exit
+2026-05-30 18:52:00.700  [Loader]           [INFO]      Unloaded addon: bosshealth.dll (Took 333368µs.)
+2026-05-30 18:52:00.727  [Loader]           [INFO]      Unloaded addon: Better_Chat.dll (Took 363540µs.)
+2026-05-30 18:52:00.727  [Reffect (alpha)]  [DEBUG]     Persisted temp pack files
+2026-05-30 18:52:00.792  [Loader]           [INFO]      Unloaded addon: reffect.dll (Took 424453µs.)

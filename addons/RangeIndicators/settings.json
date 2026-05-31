@@ -1,0 +1,57 @@
+{
+	"HitboxRGBA": 4294967295,
+	"IsHitboxVisible": true,
+	"IsVisible": false,
+	"RangeIndicators": [
+		{
+			"Arc": 360.0,
+			"IsVisible": false,
+			"Name": "",
+			"RGBA": 4294967295,
+			"Radius": 130.0,
+			"Specialization": "ALL",
+			"Thickness": 1.0,
+			"VOffset": 0.0
+		},
+		{
+			"Arc": 360.0,
+			"IsVisible": true,
+			"Name": "",
+			"RGBA": 4294967295,
+			"Radius": 240.0,
+			"Specialization": "ALL",
+			"Thickness": 1.0,
+			"VOffset": 0.0
+		},
+		{
+			"Arc": 360.0,
+			"IsVisible": false,
+			"Name": "",
+			"RGBA": 4294967295,
+			"Radius": 360.0,
+			"Specialization": "ALL",
+			"Thickness": 1.0,
+			"VOffset": 0.0
+		},
+		{
+			"Arc": 360.0,
+			"IsVisible": true,
+			"Name": "",
+			"RGBA": 4294967295,
+			"Radius": 600.0,
+			"Specialization": "ALL",
+			"Thickness": 1.0,
+			"VOffset": 0.0
+		},
+		{
+			"Arc": 360.0,
+			"IsVisible": false,
+			"Name": "",
+			"RGBA": 4294967295,
+			"Radius": 900.0,
+			"Specialization": "ALL",
+			"Thickness": 1.0,
+			"VOffset": 0.0
+		}
+	]
+}

@@ -1,0 +1,13 @@
+border_type = "Rectangle"
+border_color_a = [
+    0.0,
+    0.0,
+    0.0,
+]
+border_color_b = [
+    1.0,
+    1.0,
+    1.0,
+]
+border_thickness_a = 2.395469903945923
+border_thickness_b = 1.0

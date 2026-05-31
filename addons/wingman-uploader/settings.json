@@ -1,0 +1,15 @@
+{
+  "logpath": "C:\\Users\\Daniel\\Documents\\Guild Wars 2\\addons\\arcdps\\arcdps.cbtlogs",
+  "dpsreport_token": "13ktb3mf79b8rk9i5bb1dskrifkkhdkr",
+  "dpsreport_copyformat": "@1",
+  "show_window": false,
+  "rev_log_order": false,
+  "copy_success": true,
+  "copy_failure": true,
+  "enable_dpsreport": true,
+  "enable_wingman": true,
+  "filter_dpsreport": [],
+  "filter_wingman": [],
+  "hide_hotfix_notification_20241114": false,
+  "hotfix_20250512_executed": false
+}

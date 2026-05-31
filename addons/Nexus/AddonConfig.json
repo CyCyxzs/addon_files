@@ -1,0 +1,110 @@
+[
+	{
+		"AllowPrereleases": false,
+		"IsDisabledUntilUpdate": false,
+		"IsFavorite": false,
+		"IsLoaded": true,
+		"IsPausingUpdates": false,
+		"Name": "arcdps",
+		"Signature": -617263
+	},
+	{
+		"AllowPrereleases": false,
+		"IsDisabledUntilUpdate": false,
+		"IsFavorite": false,
+		"IsLoaded": true,
+		"IsPausingUpdates": false,
+		"Name": "Fast Load",
+		"Signature": 67000001
+	},
+	{
+		"AllowPrereleases": false,
+		"IsDisabledUntilUpdate": false,
+		"IsFavorite": false,
+		"IsLoaded": false,
+		"IsPausingUpdates": false,
+		"Name": "Radial Menus",
+		"Signature": 67000002
+	},
+	{
+		"AllowPrereleases": false,
+		"IsDisabledUntilUpdate": false,
+		"IsFavorite": false,
+		"IsLoaded": true,
+		"IsPausingUpdates": false,
+		"Name": "Log Uploader",
+		"Signature": -69421
+	},
+	{
+		"AllowPrereleases": false,
+		"IsDisabledUntilUpdate": false,
+		"IsFavorite": false,
+		"IsLoaded": true,
+		"IsPausingUpdates": false,
+		"Name": "Castbar Clarity",
+		"Signature": -308316617
+	},
+	{
+		"AllowPrereleases": false,
+		"IsDisabledUntilUpdate": false,
+		"IsFavorite": false,
+		"IsLoaded": true,
+		"IsPausingUpdates": false,
+		"Name": "VfxDenoiser",
+		"Signature": -51092108
+	},
+	{
+		"AllowPrereleases": false,
+		"IsDisabledUntilUpdate": false,
+		"IsFavorite": false,
+		"IsLoaded": true,
+		"IsPausingUpdates": false,
+		"Name": "Reffect (alpha)",
+		"Signature": -188061056
+	},
+	{
+		"AllowPrereleases": false,
+		"IsDisabledUntilUpdate": false,
+		"IsFavorite": false,
+		"IsLoaded": true,
+		"IsPausingUpdates": false,
+		"Name": "Boss Health",
+		"Signature": -2125476477
+	},
+	{
+		"AllowPrereleases": false,
+		"IsDisabledUntilUpdate": false,
+		"IsFavorite": false,
+		"IsLoaded": true,
+		"IsPausingUpdates": false,
+		"Name": "Better Chat",
+		"Signature": -621306741
+	},
+	{
+		"AllowPrereleases": false,
+		"IsDisabledUntilUpdate": false,
+		"IsFavorite": false,
+		"IsLoaded": true,
+		"IsPausingUpdates": false,
+		"Name": "Range Indicators",
+		"Signature": 31
+	},
+	{
+		"AllowPrereleases": false,
+		"IsDisabledUntilUpdate": false,
+		"IsFavorite": false,
+		"IsLoaded": false,
+		"IsPausingUpdates": false,
+		"Name": "Settings Indicator",
+		"Signature": -869597954
+	},
+	{
+		"AllowPrereleases": false,
+		"IsDisabledUntilUpdate": false,
+		"IsFavorite": false,
+		"IsLoaded": true,
+		"IsPausingUpdates": false,
+		"Name": "TaimiHUD",
+		"Signature": -1932638909
+	}
+]

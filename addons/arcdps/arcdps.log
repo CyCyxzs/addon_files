@@ -1,0 +1,16 @@
+2026-05-30 18:30:41.666: info: build 20260507.234558-601-x64
+2026-05-30 18:30:42.403: info: in process C:\Guild Wars 2\Gw2-64.exe, 0x7FF7DD381000-0x7FF7E0983000 (0x0E97C086)
+2026-05-30 18:30:42.423: info: as addon C:\Guild Wars 2\addons\ArcDPS.dll, 0x7FFCFE1F1000-0x7FFCFE355000 (0xA56F1594)
+2026-05-30 18:30:45.317: warning: received incompatible imgui context, using standalone
+2026-05-30 18:30:49.175: extensions: Arcdps Integration 0x7FFD03381000-0x7FFD033BD000 (C:\Guild Wars 2\addons\Nexus\arcdps_integration64.dll, 2025.4.22.1050, 0x4E98752B, FED81763)
+2026-05-30 18:30:53.753: warning: ignoring ui callbacks for "C:\Guild Wars 2\addons\Boon_Table.dll", imgui version mismatch: 18000 != 19270, is this up-to-date?
+2026-05-30 18:30:53.760: warning: ignoring ui callbacks for "C:\Guild Wars 2\addons\Mechanics_Log.dll", imgui version mismatch: 18000 != 19270, is this up-to-date?
+2026-05-30 18:30:53.760: warning: ignoring all callbacks for "C:\Guild Wars 2\addons\d3d9_arcdps_table.dll": already loaded
+2026-05-30 18:30:53.771: extensions: Mechanics 0x7FFCF8631000-0x7FFCF86DE000 (C:\Guild Wars 2\addons\Mechanics_Log.dll, Feb 12 2023 00:25:34, 0x98AEF35B, 81004122)
+2026-05-30 18:30:53.778: ::exports::arcdps::r#extern; ignoring arcdps, nexus is available
+2026-05-30 18:30:53.778: warning: failed to load "C:\Guild Wars 2\addons\TaimiHUD.dll", no init function provided
+2026-05-30 18:30:53.846: extensions: Boon Table 0x7FFCC99B1000-0x7FFCC9C1D000 (C:\Guild Wars 2\addons\Boon_Table.dll, 2.7.1.1, 0x169AE76E, 64003268)
+2026-05-30 18:30:53.875: extensions: Boon Table 0x7FFCC7581000-0x7FFCC780F000 (C:\Guild Wars 2\addons\d3d9_arcdps_table.dll, 3.0.1.0, 0x3A105813, 64003268)
+2026-05-30 18:30:59.560: extensions: unofficial_extras 0x7FFCC43F1000-0x7FFCC463C000 (C:\Guild Wars 2\addons\arcdps_unofficial_extras.dll, 2.1.2.1, 0x07DCB118, B39746BF)
+2026-05-30 18:51:58.044: shutdown_event
+2026-05-30 18:52:00.270: info: game exit

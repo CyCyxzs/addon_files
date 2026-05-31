@@ -1,0 +1,366 @@
+[[Timers]]
+type = "GitHub"
+owner = "QuitarHero"
+repository = "Hero-Timers"
+description = "These are timers by QuitarHero created for Charr's Timer Module."
+homepage_url = "https://github.com/QuitarHero/Hero-Timers"
+name = "Hero's Timers"
+
+[[Timers]]
+type = "GitHub"
+owner = "kittywitch"
+repository = "Sabetha-Timers"
+author = "QuitarHero, kittywitch, ???"
+description = "This edits the Hero's Timers Sabetha timers to add the Commander's Markers details back into them, while retaining cardinal directions provided."
+homepage_url = "https://github.com/kittywitch/Sabetha-Timers"
+name = "Sabetha Timers"
+
+[[Timers]]
+type = "GitHub"
+owner = "kittywitch"
+repository = "Hero-Timers"
+author = "Kat"
+description = "DEPRECATED. No longer recommended, please switch to QuitarHero's Timers."
+homepage_url = "https://github.com/kittywitch/Hero-Timers"
+name = "Kat's fork of Hero's Timers"
+deprecated = true
+
+[[Pathing]]
+type = "GitHub"
+owner = "LadyElyssa"
+repository = "LadyElyssaTacoTrails"
+author = "Lady Elyssa"
+description = "A comprehensive collection of TacO Markers and Trails"
+homepage_url = "https://github.com/LadyElyssa/LadyElyssaTacoTrails?tab=readme-ov-file#lady-elyssas-taco-trail-guides"
+name = "Lady Elyssa's Guides"
+
+[[Pathing]]
+type = "GitHub"
+owner = "Metallis"
+repository = "Metal-Marker-Myriad"
+author = "Metallis.6105"
+description = "A random assortment of markers"
+homepage_url = "https://github.com/Metallis/Metal-Marker-Myriad"
+name = "Metal Marker Myriad"
+
+[[Pathing]]
+type = "Direct"
+name = "ReActif EN"
+url = "https://github.com/TaimiHUD/DataSources-mirrored/releases/download/mirrored/reactif-en.taco"
+description = "Mega pack of 921 achievements with 18011 markers and 982 trails"
+display_name = "ReActif (EN)"
+homepage_url = "https://web.archive.org/web/20241204004932/https://www.heinze.fr/taco/?lang=en"
+
+[[Pathing]]
+type = "GitHub"
+owner = "xrandox"
+repository = "TehsTrails"
+author = "xTeh.7146"
+description = "Tailored for speedrunning map completion, utilizing all mounts and waypoints."
+homepage_url = "https://github.com/xrandox/TehsTrails"
+name = "Teh's Trails - Map Completion"
+
+[[Pathing]]
+type = "GitHub"
+owner = "xrandox"
+repository = "TehsTrails-HeroPoints"
+author = "xTeh.7146"
+description = "Trails for speed-completing Hero Points either solo or in small groups."
+homepage_url = "https://github.com/xrandox/TehsTrails-HeroPoints"
+name = "Teh's Trails - Hero Points"
+
+[[Pathing]]
+type = "GitHub"
+owner = "LadyElyssa"
+repository = "LadyElyssaAchievementGuides"
+author = "Lady Elyssa"
+description = "A pack focused purely on Achievements and Collections"
+homepage_url = "https://github.com/LadyElyssa/LadyElyssaAchievementGuides?tab=readme-ov-file#lady-elyssas-achievement--collection-guides"
+name = "Lady Elyssa's Achievements Guide"
+
+[[Pathing]]
+type = "GitHub"
+owner = "smoothie22"
+repository = "Linus-VoE-Chest-Farm-Route"
+author = "Smoothie, u/Galnis"
+description = "Paths and Makers for farming Magic Mirrors and Chests from VoE maps. No alts required and doesn't require doing any extra events for keys."
+homepage_url = "https://github.com/smoothie22/Linus-VoE-Chest-Farm-Route"
+name = "Linus VoE Chest Farm"
+
+[[Pathing]]
+type = "GitHub"
+owner = "PrincipesRegalus"
+repository = "PrincipesRegalus-s-VoE-Obscure-Map"
+description = "This marker pack is for those who wish it was easier to find the location of obscure chests."
+homepage_url = "https://github.com/PrincipesRegalus/PrincipesRegalus-s-VoE-Obscure-Map"
+name = "VoE Mirrors and oChests"
+
+[[Pathing]]
+type = "GitHub"
+owner = "ShinyMeta"
+repository = "ShinysTrails"
+author = "Shinymeta"
+homepage_url = "https://github.com/ShinyMeta/ShinysTrails"
+name = "Shinymeta's Markers"
+
+[[Pathing]]
+type = "GitHub"
+owner = "ApocalypseGW2"
+repository = "apo-markers"
+author = "Apocalypse.5289"
+description = "Markers for Kela"
+homepage_url = "https://github.com/ApocalypseGW2/apo-markers"
+name = "Apo's Boss Markers"
+
+[[Pathing]]
+type = "GitHub"
+owner = "aurizara"
+repository = "Aurizara-s-HP-Train-Guides"
+author = "Aurizara"
+display_name = "HP Train Guides"
+homepage_url = "https://github.com/aurizara/Aurizara-s-HP-Train-Guides"
+name = "Aurizara's HP Train Guides"
+
+[[Pathing]]
+type = "GitHub"
+owner = "RGodwinDev"
+repository = "ConvergenceCorpTrails"
+author = "SunMatrix.4168"
+description = """
+A Marker/Pathing pack for Convergences! Includes some JW hearts.
+https://convergencecorp.net/"""
+homepage_url = "https://github.com/RGodwinDev/ConvergenceCorpTrails"
+name = "Convergence Corp Trails"
+
+[[Pathing]]
+type = "GitHub"
+owner = "czokalapik"
+repository = "Czokalapik-s-Guides-for-GW2Taco"
+author = "Czokalapik"
+homepage_url = "https://github.com/czokalapik/Czokalapik-s-Guides-for-GW2Taco"
+name = "Czokalapik's Guides for GW2Taco"
+
+[[Pathing]]
+type = "GitHub"
+owner = "SZG5"
+repository = "gw2-dungeon-markers"
+author = "[FvD]"
+description = "The Friends Versus Dungeons guide for people who get lost easily"
+homepage_url = "https://github.com/SZG5/gw2-dungeon-markers"
+name = "Dungeon Guide"
+
+[[Pathing]]
+type = "GitHub"
+owner = "Emythiel"
+repository = "gw2-blish-markers"
+author = "Emythiel"
+homepage_url = "https://github.com/Emythiel/gw2-blish-markers"
+name = "Emythiel's HoT HP Marker Pack"
+
+[[Pathing]]
+type = "Direct"
+name = "fast TacO"
+url = "https://fast.farming-community.eu/assets/downloads/fast_TacO_pack.taco"
+author = "[fast]"
+display_name = "[fast] TacO Markers"
+homepage_url = "https://fast.farming-community.eu/farming/guides/fast-taco-marker"
+
+[[Pathing]]
+type = "GitHub"
+owner = "placeholderwastakentwice"
+repository = "flooch-friendly-collection-routes"
+author = "Flooch"
+homepage_url = "https://github.com/placeholderwastakentwice/flooch-friendly-collection-routes"
+name = "Flooch's Friendly Collection Routes"
+
+[[Pathing]]
+type = "Direct"
+name = "GW2TacO Markers"
+url = "https://github.com/TaimiHUD/DataSources-mirrored/releases/download/mirrored/TacOMarkers.taco"
+author = "GW2TacO"
+description = "The default marker pack included with GW2TacO"
+display_name = "TacO Stock Markers"
+homepage_url = "https://www.gw2taco.com"
+
+[[Pathing]]
+type = "GitHub"
+owner = "HasKha"
+repository = "gw2-markers"
+author = "HasKha"
+description = "Raid markers - including Febe and Ura CM"
+homepage_url = "https://github.com/HasKha/gw2-markers"
+name = "HasKha's Markers"
+
+[[Pathing]]
+type = "GitHub"
+owner = "dlamkins"
+repository = "heart-zones"
+author = "Freesnöw"
+homepage_url = "https://github.com/dlamkins/heart-zones"
+name = "Heart Zones"
+
+[[Pathing]]
+type = "GitHub"
+owner = "HeroineDark"
+repository = "HeroineDarks-Super-Adventure-Box-Guide"
+display_name = "Super Adventure Box Guide"
+homepage_url = "https://github.com/HeroineDark/HeroineDarks-Super-Adventure-Box-Guide"
+name = "HeroineDark's Super Adventure Box Guide"
+
+[[Pathing]]
+type = "GitHub"
+owner = "QuitarHero"
+repository = "Heros-Marker-Pack"
+homepage_url = "https://github.com/QuitarHero/Heros-Marker-Pack"
+name = "Hero's Pack"
+
+[[Pathing]]
+type = "GitHub"
+owner = "OlivierCharton"
+repository = "JapyxTrails"
+author = "Japyx"
+homepage_url = "https://github.com/OlivierCharton/JapyxTrails"
+name = "Japyx's Trails"
+
+[[Pathing]]
+type = "GitHub"
+owner = "Kaedalus"
+repository = "Mesmer-Fractal-Skips"
+homepage_url = "https://github.com/Kaedalus/Mesmer-Fractal-Skips"
+name = "Mesmer Fractal Skips"
+
+[[Pathing]]
+type = "Direct"
+name = "MOAR Marker Pack"
+url = "https://moar-loot.web.app/releases/moar.taco"
+author = "MOAR"
+display_name = "MOAR Marker Pack [BETA]"
+homepage_url = "https://www.moarloot.com/markers"
+
+[[Pathing]]
+type = "GitHub"
+owner = "agaertner"
+repository = "bhud-markers"
+author = "Nekres"
+homepage_url = "https://github.com/agaertner/bhud-markers"
+name = "Nekres' Hoard of Lost 'n Forgotten Markers"
+
+[[Pathing]]
+type = "GitHub"
+owner = "Nexrym"
+repository = "Nexploration"
+homepage_url = "https://github.com/Nexrym/Nexploration"
+name = "Nexploration"
+
+[[Pathing]]
+type = "GitHub"
+owner = "Metallis"
+repository = "Only-Fish-Marker-Pack"
+author = "Metallis.6105"
+homepage_url = "https://github.com/Metallis/Only-Fish-Marker-Pack"
+name = "Only Fish"
+
+[[Pathing]]
+type = "GitHub"
+owner = "AersiaNightingale"
+repository = "PEAK-Infallible-Markers"
+author = "Aersia"
+description = "Skips, stack spots, jumping puzzles, and more to help with the Infallible achievement"
+homepage_url = "https://github.com/AersiaNightingale/PEAK-Infallible-Markers"
+name = "PEAK Infallible Markers"
+
+[[Pathing]]
+type = "GitHub"
+owner = "Girbilcannon"
+repository = "Pewpews-Power-Paths"
+author = "Pewpew"
+homepage_url = "https://github.com/Girbilcannon/Pewpews-Power-Paths"
+name = "Pewpew's Power Paths"
+
+[[Pathing]]
+type = "GitHub"
+owner = "Garfried"
+repository = "RACE-Beetle-Racing-Tracks"
+author = "[RACE]"
+display_name = "Beetle Racing Tracks"
+homepage_url = "https://github.com/Garfried/RACE-Beetle-Racing-Tracks"
+name = "RACE-Beetle-Racing-Tracks"
+
+[[Pathing]]
+type = "Direct"
+name = "ReActif FR"
+url = "https://github.com/TaimiHUD/DataSources-mirrored/releases/download/mirrored/reactif-fr.taco"
+description = "Méga Pack de 921 succès avec 18011 marqueurs et 982 parcours"
+display_name = "ReActif (FR)"
+homepage_url = "https://web.archive.org/web/20250216050634/https://www.heinze.fr/taco/"
+
+[[Pathing]]
+type = "GitHub"
+owner = "rediche"
+repository = "rediche-wvw-pack"
+author = "Rediche"
+homepage_url = "https://github.com/rediche/rediche-wvw-pack"
+name = "WvW Siege Pack"
+
+[[Pathing]]
+type = "Direct"
+name = "Tekkit's All-In-One"
+url = "https://www.tekkitsworkshop.net/downloads/tw_ALL_IN_ONE.taco"
+homepage_url = "https://www.tekkitsworkshop.net"
+
+[[Pathing]]
+type = "Direct"
+name = "The Tryhard Marker Pack"
+url = "https://github.com/TaimiHUD/DataSources-mirrored/releases/download/mirrored/tryhard.taco"
+author = "Deroir"
+homepage_url = "https://drive.google.com/file/d/15Eqex_HIO3B0Aga4qWL8kLc1vlVEIJ8e/view"
+
+[[Pathing]]
+type = "GitHub"
+owner = "AsherGlick"
+repository = "TurtlePoint"
+homepage_url = "https://github.com/AsherGlick/TurtlePoint"
+name = "TurtlePoint"
+
+[[Pathing]]
+type = "GitHub"
+owner = "SZG5"
+repository = "gw2-twisted-castle"
+homepage_url = "https://github.com/SZG5/gw2-twisted-castle"
+name = "Twisted Castle"
+
+[[Pathing]]
+type = "GitHub"
+owner = "n1nj44r91"
+repository = "Tyria-Drift-DRFT-GW2-TacO-Racetracks"
+author = "DRFT"
+display_name = "Tyria Drift Racetracks"
+homepage_url = "https://github.com/n1nj44r91/Tyria-Drift-DRFT-GW2-TacO-Racetracks"
+name = "Tyria DRFT"
+
+[[Pathing]]
+type = "GitHub"
+owner = "Girbilcannon"
+repository = "zippy"
+author = "Pewpew"
+homepage_url = "https://github.com/Girbilcannon/zippy"
+name = "Zippy Ziplines"
+
+[[Markers]]
+type = "GitHub"
+owner = "TaimiHUD"
+repository = "CommandersMarkersInternalMarkers"
+author = "Commander's Markers"
+description = "Markers that were embedded into the source code of Blish HUD Commander's Markers."
+display_name = "Stock Markers"
+homepage_url = "https://github.com/TaimiHUD/CommandersMarkersInternalMarkers"
+name = "BlishHUD Commander's Markers Internal Markers"
+
+[[Markers]]
+type = "Direct"
+name = "BlishHUD Community Markers"
+url = "https://bhm.blishhud.com/Manlaan.CommanderMarkers/Community/Markers.json"
+author = "Blish HUD Community"
+description = "Markers provided by the community for Commander's Markers."
+display_name = "Community Markers"
+homepage_url = "https://github.com/manlaan/BlishHud-CommanderMarkers/tree/bhud-static/Manlaan.CommanderMarkers"

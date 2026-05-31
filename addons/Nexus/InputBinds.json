@@ -1,0 +1,227 @@
+[
+	{
+		"Alt": false,
+		"Code": 0,
+		"Ctrl": false,
+		"Identifier": "KB_ADDONS",
+		"Passthrough": false,
+		"Shift": false,
+		"Type": 0
+	},
+	{
+		"Alt": false,
+		"Code": 0,
+		"Ctrl": false,
+		"Identifier": "KB_DEBUG",
+		"Passthrough": false,
+		"Shift": false,
+		"Type": 0
+	},
+	{
+		"Alt": false,
+		"Code": 0,
+		"Ctrl": false,
+		"Identifier": "KB_LOG",
+		"Passthrough": false,
+		"Shift": false,
+		"Type": 0
+	},
+	{
+		"Alt": false,
+		"Code": 24,
+		"Ctrl": true,
+		"Identifier": "KB_MENU",
+		"Passthrough": false,
+		"Shift": false,
+		"Type": 1
+	},
+	{
+		"Alt": false,
+		"Code": 0,
+		"Ctrl": false,
+		"Identifier": "KB_MUMBLEOVERLAY",
+		"Passthrough": false,
+		"Shift": false,
+		"Type": 0
+	},
+	{
+		"Alt": true,
+		"Code": 17,
+		"Ctrl": false,
+		"Identifier": "KB_OPEN_WINGMAN_UPLOADS",
+		"Passthrough": false,
+		"Shift": true,
+		"Type": 1
+	},
+	{
+		"Alt": false,
+		"Code": 0,
+		"Ctrl": false,
+		"Identifier": "KB_OPTIONS",
+		"Passthrough": false,
+		"Shift": false,
+		"Type": 0
+	},
+	{
+		"Alt": false,
+		"Code": 4,
+		"Ctrl": false,
+		"Identifier": "KB_RADIAL1",
+		"Passthrough": false,
+		"Shift": false,
+		"Type": 2
+	},
+	{
+		"Alt": false,
+		"Code": 48,
+		"Ctrl": false,
+		"Identifier": "KB_RADIAL2",
+		"Passthrough": false,
+		"Shift": false,
+		"Type": 1
+	},
+	{
+		"Alt": false,
+		"Code": 0,
+		"Ctrl": false,
+		"Identifier": "KB_RI_TOGGLEVISIBLE",
+		"Passthrough": false,
+		"Shift": false,
+		"Type": 0
+	},
+	{
+		"Alt": false,
+		"Code": 35,
+		"Ctrl": true,
+		"Identifier": "KB_TOGGLEHIDEUI",
+		"Passthrough": false,
+		"Shift": false,
+		"Type": 1
+	},
+	{
+		"Alt": false,
+		"Code": 0,
+		"Ctrl": false,
+		"Identifier": "ToggleSettingsIndicator",
+		"Passthrough": false,
+		"Shift": false,
+		"Type": 0
+	},
+	{
+		"Alt": true,
+		"Code": 38,
+		"Ctrl": false,
+		"Identifier": "marker-window-toggle",
+		"Passthrough": false,
+		"Shift": true,
+		"Type": 1
+	},
+	{
+		"Alt": true,
+		"Code": 60,
+		"Ctrl": false,
+		"Identifier": "pathing-render-map-toggle",
+		"Passthrough": false,
+		"Shift": true,
+		"Type": 1
+	},
+	{
+		"Alt": true,
+		"Code": 59,
+		"Ctrl": false,
+		"Identifier": "pathing-render-minimap-toggle",
+		"Passthrough": false,
+		"Shift": true,
+		"Type": 1
+	},
+	{
+		"Alt": false,
+		"Code": 0,
+		"Ctrl": false,
+		"Identifier": "pathing-render-toggle",
+		"Passthrough": false,
+		"Shift": false,
+		"Type": 0
+	},
+	{
+		"Alt": true,
+		"Code": 49,
+		"Ctrl": false,
+		"Identifier": "pathing-window-toggle",
+		"Passthrough": false,
+		"Shift": true,
+		"Type": 1
+	},
+	{
+		"Alt": true,
+		"Code": 50,
+		"Ctrl": false,
+		"Identifier": "primary-window-toggle",
+		"Passthrough": false,
+		"Shift": true,
+		"Type": 1
+	},
+	{
+		"Alt": false,
+		"Code": 0,
+		"Ctrl": false,
+		"Identifier": "timer-key-reset",
+		"Passthrough": false,
+		"Shift": false,
+		"Type": 0
+	},
+	{
+		"Alt": false,
+		"Code": 0,
+		"Ctrl": false,
+		"Identifier": "timer-key-trigger-0",
+		"Passthrough": false,
+		"Shift": false,
+		"Type": 0
+	},
+	{
+		"Alt": false,
+		"Code": 0,
+		"Ctrl": false,
+		"Identifier": "timer-key-trigger-1",
+		"Passthrough": false,
+		"Shift": false,
+		"Type": 0
+	},
+	{
+		"Alt": false,
+		"Code": 0,
+		"Ctrl": false,
+		"Identifier": "timer-key-trigger-2",
+		"Passthrough": false,
+		"Shift": false,
+		"Type": 0
+	},
+	{
+		"Alt": false,
+		"Code": 0,
+		"Ctrl": false,
+		"Identifier": "timer-key-trigger-3",
+		"Passthrough": false,
+		"Shift": false,
+		"Type": 0
+	},
+	{
+		"Alt": false,
+		"Code": 0,
+		"Ctrl": false,
+		"Identifier": "timer-key-trigger-4",
+		"Passthrough": false,
+		"Shift": false,
+		"Type": 0
+	},
+	{
+		"Alt": true,
+		"Code": 37,
+		"Ctrl": false,
+		"Identifier": "timer-window-toggle",
+		"Passthrough": false,
+		"Shift": true,
+		"Type": 1
+	}
+]

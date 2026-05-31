@@ -1,0 +1,4543 @@
+{
+	"version": {
+		"major": 1,
+		"minor": 8
+	},
+	"categories": [
+		{
+			"name": "Miscellaneous",
+			"effects": [
+				{
+					"name": "Default footfalls",
+					"guids": [
+						"3K/oAcdupqFD0U0HfaabFw=="
+					],
+					"behaviors": [
+						{
+							"type": "Show",
+							"caster": "All"
+						}
+					]
+				},
+				{
+					"name": "Water footfalls",
+					"guids": [
+						"OoUHnIJ3YaJIcJaaHxLnzg=="
+					],
+					"behaviors": [
+						{
+							"type": "Show",
+							"caster": "All"
+						}
+					]
+				},
+				{
+					"name": "Landing jump",
+					"guids": [
+						"ziEL9fysSI1KXIyxTJpkZw=="
+					],
+					"behaviors": [
+						{
+							"type": "Show",
+							"caster": "All"
+						}
+					]
+				},
+				{
+					"name": "Mushroom king's blessing",
+					"guids": [
+						"N3Gm57g9xZRE9hXif3Oqsg=="
+					],
+					"behaviors": [
+						{
+							"type": "Show",
+							"caster": "All"
+						}
+					]
+				},
+				{
+					"name": "Relic of fireworks",
+					"guids": [
+						"Y+Ia1SjvfqdA6woM1DPAKw=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "All"
+						}
+					]
+				},
+				{
+					"name": "Skyscale Fireball",
+					"guids": [
+						"NIzW8Xc3xaxIGnas3p2Mug=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "All"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Boons",
+			"effects": [
+				{
+					"name": "Alacrity",
+					"guids": [
+						"gZmeeSW6d7dOKGgJLJYu9A=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "All"
+						}
+					]
+				},
+				{
+					"name": "Protection",
+					"guids": [
+						"gLTuj1D63YtC/keCe1FARQ=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "All"
+						}
+					]
+				},
+				{
+					"name": "Resistance",
+					"guids": [
+						"mIcV7Ut1b4tHJJoasc8kbA=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "All"
+						}
+					]
+				},
+				{
+					"name": "Quickness (blur)",
+					"guids": [
+						"uSS0A+XW45hLfjaTQRVOmw=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "All"
+						}
+					]
+				},
+				{
+					"name": "Swiftness application",
+					"guids": [
+						"Xm/cq/IbOIxOqcP8dhJn3Q=="
+					],
+					"behaviors": [
+						{
+							"type": "Show",
+							"caster": "All"
+						}
+					]
+				},
+				{
+					"name": "Aegis application",
+					"guids": [
+						"beorfjiGX7NA9uupRvVFIQ=="
+					],
+					"behaviors": [
+						{
+							"type": "Show",
+							"caster": "All"
+						}
+					]
+				},
+				{
+					"name": "Aegis arm vfx",
+					"guids": [
+						"aN8g2wnixIlHn5zQE5eF0g=="
+					],
+					"behaviors": [
+						{
+							"type": "Show",
+							"caster": "All"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Guardian",
+			"categories": [
+				{
+					"name": "Dragonhunter",
+					"effects": [
+						{
+							"name": "Procession of Blades",
+							"guids": [
+								"LgIR5cB1UbNJykAC7amzYg=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "Others"
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Firebrand",
+					"effects": [
+						{
+							"name": "Tome 1-4",
+							"guids": [
+								"s0kdcU+d1oxIHJ24usLITA==",
+								"yFAPXxdisJhMwQl/PBvjDg=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Tome 2-4",
+							"guids": [
+								"4nx5LuKJ14xINIQzlz+A0g=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Tome 3-4",
+							"guids": [
+								"EPf5Q7A+1oBB1L+CiRlPyg=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Luminary",
+					"effects": [
+						{
+							"name": "Radiant Forge aura",
+							"guids": [
+								"95BZJ9dmNo9GE8BQvlrsqQ=="
+							],
+							"behaviors": [
+								{
+									"type": "Show",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Glaring Burst",
+							"guids": [
+								"qf9QZrIiDYVNTSkDH2oG+w=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "Others"
+								}
+							]
+						},
+						{
+							"name": "Resolute Stance",
+							"guids": [
+								"tLjCQRM+cq5IpWbO/AqCYw=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "Others"
+								}
+							]
+						},
+						{
+							"name": "Stalwart Stance",
+							"guids": [
+								"CKYtTTgOF5xNTWpBtv/pQg=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "Others"
+								}
+							]
+						},
+						{
+							"name": "Piercing Stance",
+							"guids": [
+								"po6U6jZW0ZlB9CmybTsmrA=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "Others"
+								}
+							]
+						},
+						{
+							"name": "Effulgent Stance",
+							"guids": [
+								"21F0uWmPyotOoA3cofGpOQ==",
+								"Dt/7OH9vVaBH09zTYQnxhw==",
+								"H601/OZsnplKuuRMub2qOA=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "Others"
+								}
+							]
+						},
+						{
+							"name": "Valorous Stance",
+							"guids": [
+								"CirXQlocpLtI/A8F29dgfg=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "Others"
+								}
+							]
+						},
+						{
+							"name": "Daring Advance",
+							"guids": [
+								"zMipk0mqzqFHgplYOmqxkA=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "Others"
+								}
+							]
+						},
+						{
+							"name": "Lantern",
+							"guids": [
+								"L/pny6uM06FJzD+LI6SEeA=="
+							],
+							"behaviors": [
+								{
+									"type": "Show",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Luminous Staff",
+							"guids": [
+								"lbGPkOIwc7dEB0wlXBUCJg==",
+								"JjTwzaehJ55LOYU9WVg9Vg=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Restorative Glow",
+							"guids": [
+								"nkOEn5PQkIRHTA8GsBt00g=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "Others"
+								}
+							]
+						}
+					]
+				}
+			],
+			"effects": [
+				{
+					"name": "Spear 4 vfx",
+					"guids": [
+						"R4UNDiYhwZ5LLbBq3/qE7g==",
+						"euAzIX/auJRLadTrL64PbA==",
+						"CG83oY/e06VAjujnzPJFEA==",
+						"ynGZaJ1F15FJdOfkKvgEeg==",
+						"AY42M+oWAbpDss4RB7OlAA==",
+						"B4IsemGokrtK54b8tGhICg==",
+						"sP6DMAaJZahOI1DT0AmFkg=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "Others"
+						}
+					]
+				},
+				{
+					"name": "Spear 4 sky circle",
+					"guids": [
+						"zaM/xxSC/KdIZcZNLmTUIw=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "All"
+						}
+					]
+				},
+				{
+					"name": "Spear 4 character ring",
+					"guids": [
+						"/jcZpXB2lYNFOyXpXu+7aQ=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "Others"
+						}
+					]
+				},
+				{
+					"name": "Spear 5",
+					"guids": [
+						"em4kJX7HooVG1rD1gZUdlQ==",
+						"4vacD5wCjoZN81U8kWUx/A=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "All"
+						}
+					]
+				},
+				{
+					"name": "Axe 2",
+					"guids": [
+						"vuy579YfxJlC1kP9vsJBng==",
+						"oKGvQZx3DZtAzmUNLHpmGw=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "All"
+						}
+					]
+				},
+				{
+					"name": "Signet of Courage",
+					"guids": [
+						"8+PYlpPtNphFEhNfLzCl/Q=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "Others"
+						}
+					]
+				},
+				{
+					"name": "Spear 3 Character Ring",
+					"guids": [
+						"IbS8tY1q8rdGHH1E+eKnQA==",
+						"DgbSkdLMAblKLcFyjTbzww=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "Others"
+						}
+					]
+				},
+				{
+					"name": "Spear 3 Explosion",
+					"guids": [
+						"Iq4AL+O3vadJQwsaM7hZjQ=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "Others"
+						}
+					]
+				},
+				{
+					"name": "Spear 3 Trail",
+					"guids": [
+						"0i3kZaVie6RAge2rMdlWHA==",
+						"5wVf6/K2tJZAtVPITTfXMQ=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "Others"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Revenant",
+			"categories": [
+				{
+					"name": "Renegade",
+					"effects": [
+						{
+							"name": "Soulcleave's Summit",
+							"guids": [
+								"3YrNjr6wW7xF8fNCep9xoA=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Darkrazor's Daring",
+							"guids": [
+								"ix5evTSJ8b1Bt8Lwe3YEJw=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Razorclaw's Edge",
+							"guids": [
+								"ccUpNPx6GpNBgvFGB4jBew=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Icerazor's Ire",
+							"guids": [
+								"+1kXHtNhiaNGxW0hPNcBCA=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Breakrazor's Bastion",
+							"guids": [
+								"onSRx43pn6tK7PqZ7uj1zQ=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Vindicator",
+					"effects": [
+						{
+							"name": "Dodge yellow circle",
+							"guids": [
+								"TwideBKTla1PX79Nu78iqQ==",
+								"tn5uyfQk9r1DNnXrlw7EFQ==",
+								"rIXwjYh+2KVG5rJQKrY2Jg=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Dodge ground impact",
+							"guids": [
+								"MKRKFnvz0pJCBh276PCCLw==",
+								"ilviLI+BTZ5PHGw9CWRcAA==",
+								"D/0Lc2G3O7hIKmVZcE7EJg=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "Others"
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Conduit",
+					"effects": [
+						{
+							"name": "Release Potential: Dervish",
+							"guids": [
+								"Kq6hxBZNZ6RKXwy/CrXY5g=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "Others"
+								}
+							]
+						},
+						{
+							"name": "Release Potential: Warrior",
+							"guids": [
+								"ko8iUzNzgqNBww7LHJ8i9w=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "Others"
+								}
+							]
+						},
+						{
+							"name": "Release Potential: Mesmer",
+							"guids": [
+								"oNhKAjpuZaFBtJm5dj8Brg=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "Others"
+								}
+							]
+						},
+						{
+							"name": "Release Potential: Assassin",
+							"guids": [
+								"rN5h16bGwJhH0d9tourErA=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "Others"
+								}
+							]
+						},
+						{
+							"name": "Twin Moon Sweep",
+							"guids": [
+								"a5rI2A030YdGMyUqSWP70g==",
+								"lpMVH8gWAIVO8wZPIYmtHw==",
+								"lttmZuY9n4RHAVi37+iL9A==",
+								"ok0a0aBOGZ9I653Ami6yFw=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "Others"
+								}
+							]
+						},
+						{
+							"name": "Hex-Eater Vortex",
+							"guids": [
+								"zOzjiefy859OnLpmsFGfTw=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "Others"
+								}
+							]
+						},
+						{
+							"name": "Cosmic Wisdom",
+							"guids": [
+								"9Lk1lGTjmaVNOZVB0bULfA==",
+								"RjZiqytYcLpOnC6KVuA7Tg=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "Others"
+								}
+							]
+						}
+					]
+				}
+			],
+			"effects": [
+				{
+					"name": "Greatsword 2",
+					"guids": [
+						"WGbCjmkhyoFELGH9WUK8Vg=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "Others"
+						}
+					]
+				},
+				{
+					"name": "Spear 5",
+					"guids": [
+						"vW2ojT4tXbNB8127HYMEAg=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "All"
+						}
+					]
+				},
+				{
+					"name": "Spear 5 on swap",
+					"guids": [
+						"AFIe5HIqMaBDyLIpblY89w=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "All"
+						}
+					]
+				},
+				{
+					"name": "Spear 4",
+					"guids": [
+						"USknmiU+3K9AfoJ0uIB/jQ==",
+						"eAsLFwjb2ZlOGx+0g3Bp2A=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "All"
+						}
+					]
+				},
+				{
+					"name": "Crushing abyss",
+					"guids": [
+						"qe3rfuzKvrhGvCO1wYqeww==",
+						"EnBZntoUQIZC+i+9e8TFNg==",
+						"ZcoOl/Q5k49GJj1T7fiKxg=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "All"
+						}
+					]
+				},
+				{
+					"name": "Impossible Odds",
+					"guids": [
+						"62QGPelPw7tDWS5BDUj6sA=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "Others"
+						}
+					]
+				},
+				{
+					"name": "Embrace the Darkness pulse",
+					"guids": [
+						"Rhc2MpoqQLFADFukqyVyHQ=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "All"
+						}
+					]
+				},
+				{
+					"name": "Razah arm aura",
+					"guids": [
+						"trbn5yGZwKFNVx2YQPKMYg==",
+						"jTGgHlmfNKtMg2OoHPnjaw=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "All"
+						}
+					]
+				},
+				{
+					"name": "Mallyx arm aura",
+					"guids": [
+						"SLKWZc9eKpdO6uHvT9mrQw==",
+						"pXHv9BNQuq1DGG5SLQeJNg=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "All"
+						}
+					]
+				},
+				{
+					"name": "Shiro arm aura",
+					"guids": [
+						"9PKCO7o2wLVJ9U37AM03bw==",
+						"BD4h/3mfGb5IvABM3D1rcA=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "All"
+						}
+					]
+				},
+				{
+					"name": "Jalis arm aura",
+					"guids": [
+						"CUXSGNwX0LJPjjAIm82L0g==",
+						"cl0nIMLB6p5NzDw2Z7B/9Q=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "All"
+						}
+					]
+				},
+				{
+					"name": "Ventari arm aura",
+					"guids": [
+						"0XhBkdd5n7pDM+DR5cTbMQ==",
+						"rc+xQ7FJAZ5AjHq9VKfeTQ=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "All"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Warrior",
+			"categories": [
+				{
+					"name": "Bladesworn",
+					"effects": [
+						{
+							"name": "Tactical Reload Sound",
+							"guids": [
+								"ilt1105LHpZH7FArJBa5OQ=="
+							],
+							"behaviors": [
+								{
+									"type": "Show",
+									"caster": "All"
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Paragon",
+					"effects": [
+						{
+							"name": "Motivation pulse visual",
+							"guids": [
+								"Xu6I0yVyPLJHeLLe62q1Yw==",
+								"ATfRekOm4r5AJm+KUp1mbQ==",
+								"5sOzWp8L/pJDz8PWprDguA=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "Others"
+								}
+							]
+						},
+						{
+							"name": "Motivation pulse sound",
+							"guids": [
+								"027c0UvBRa9HtHNbXMoLTA==",
+								"Hkr5meW7To5IWwlyUhrBKg==",
+								"+VIOmvS8UZJJ+Jf9JwqHQQ=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "Others"
+								}
+							]
+						},
+						{
+							"name": "Chant of Action",
+							"guids": [
+								"rkbxbIRU37pPn/qYPK0E7Q=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "Others"
+								}
+							]
+						},
+						{
+							"name": "Chant of Recuperation",
+							"guids": [
+								"5M10ybw/tKJPAoGCfs03eQ=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "Others"
+								}
+							]
+						},
+						{
+							"name": "Chant of Freedom",
+							"guids": [
+								"115Ng3EomZdBEr881ZRcMA=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "Others"
+								}
+							]
+						},
+						{
+							"name": "Never Surrender",
+							"guids": [
+								"lOC2XLljdqZHHrY1fH4jyw==",
+								"2zGQUMsa0ptASxe8n0Dvgg=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "Others"
+								}
+							]
+						},
+						{
+							"name": "Brace Yourselves",
+							"guids": [
+								"Es7gY2AuE7hAv4huZ/7L+g==",
+								"hB16muvRbK1DpuyCQ4Oh4g=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "Others"
+								}
+							]
+						},
+						{
+							"name": "Wings",
+							"guids": [
+								"IpG7knVhdo5ExVk+AzJ0og=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "Others"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Engineer",
+			"categories": [
+				{
+					"name": "Mechanist",
+					"effects": [
+						{
+							"name": "Superconducting Signet",
+							"guids": [
+								"yvmxhMQc6IFPPph5QoyoQA=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Barrier Signet",
+							"guids": [
+								"9m9il5Gn1q9EJc0ChA3IfQ==",
+								"wRfxAgx0v59MeWhDzXL9SA=="
+							],
+							"behaviors": [
+								{
+									"type": "Show",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Sky Circus",
+							"guids": [
+								"61gNrS3cwItIDCZHW8PkYQ=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Amalgam",
+					"effects": [
+						{
+							"name": "Offensive Protocol: Obliterate",
+							"guids": [
+								"Vua2vs+xS5JI2kZolYDl2w=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "Others"
+								}
+							]
+						},
+						{
+							"name": "Liquid State",
+							"guids": [
+								"cYo96PZN3bdDIiy3gPxMnA=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Plasmatic State",
+							"guids": [
+								"3XAJTZqSN4JB5k1G+D2rBw=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "Others"
+								}
+							]
+						}
+					]
+				}
+			],
+			"effects": [
+				{
+					"name": "Pistol 5",
+					"description": "Has no other indicator. Setting duration to 1000 also works well",
+					"guids": [
+						"zRLpfpd6T5JEBy7d+YayVA=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "All"
+						}
+					]
+				},
+				{
+					"name": "Shortbow 3",
+					"guids": [
+						"CGyHoQ1DDKJE5eea+wKBhg=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "All"
+						}
+					]
+				},
+				{
+					"name": "Hammer 5",
+					"guids": [
+						"BBnnru+6o79AjamB7xwdhA=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "Others"
+						}
+					]
+				},
+				{
+					"name": "Hammer 2",
+					"guids": [
+						"wv/PEiXsKbVLZHrkGXUhAA=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "Others"
+						}
+					]
+				},
+				{
+					"name": "Napalm",
+					"guids": [
+						"4x+sZbqPiJhM/CdAHZKr3Q=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "Others"
+						}
+					]
+				},
+				{
+					"name": "Spear 2: target floating marker",
+					"guids": [
+						"lEm2Wp032LhENHhvSXd45Q=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "All"
+						}
+					]
+				},
+				{
+					"name": "Spear 2: target glow",
+					"guids": [
+						"QTiGcO0vs7RIt9zIW7l2Rw=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "All"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Ranger",
+			"categories": [
+				{
+					"name": "Soulbeast",
+					"effects": [
+						{
+							"name": "Merged Cloud",
+							"guids": [
+								"k7DClWiqRo9Jg+auH/7Sag=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Merged Whirl",
+							"guids": [
+								"qQuFBlKpDapHJW7dbN/fOQ=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Untamed",
+					"effects": [
+						{
+							"name": "Solar Brilliance",
+							"guids": [
+								"+sgNzmCLTZVBq65szahyZw=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Enveloping Haze",
+							"guids": [
+								"1P8HOr9JwIpBWfxwGbax8g=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Galeshot",
+					"effects": [
+						{
+							"name": "Fleeting Zephyr",
+							"guids": [
+								"TsrySj3tGp9CU7EmTa/+ZA=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "Others"
+								}
+							]
+						},
+						{
+							"name": "Mistral",
+							"guids": [
+								"ZWpYE7zNR6tAGSGVjnx7yg=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "Others"
+								}
+							]
+						},
+						{
+							"name": "Perfect Storm",
+							"guids": [
+								"SSOvrlU4NJ9M6gFg6EgilQ==",
+								"2FZFfMhgcbtJtmorqwJJDg=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "Others"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Thief",
+			"categories": [
+				{
+					"name": "Specter",
+					"effects": [
+						{
+							"name": "Well of Gloom",
+							"guids": [
+								"JeeqsXL2ALlEm8VDWzPDzg=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Well of Bounty",
+							"guids": [
+								"KDyOTBCdJ5NKwd0CLBQaNQ=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Well of Tears",
+							"guids": [
+								"CreCHB4Q6IhIXHNIRzQFng=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Well of Silence",
+							"guids": [
+								"7lgcj5HVwIpO0u0WkVg42Q=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Well of Sorrow",
+							"guids": [
+								"XsZg1jn1sbZC0ULQmM3jvA=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Shadowfall",
+							"guids": [
+								"A1mwfXS2FIxK6sduEeDAMQ=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Shroud vfx",
+							"description": "Character vfx in shroud",
+							"guids": [
+								"6/sto2MX47JEZI5+FDkwYQ=="
+							],
+							"behaviors": [
+								{
+									"type": "Show",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Shroud 5",
+							"guids": [
+								"Ouu9McTrpoNAZEgGVjD7iA=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Antiquary",
+					"effects": [
+						{
+							"name": "Stone Summit Cannon",
+							"guids": [
+								"R34IHe+vP49LKEfF05XzvQ==",
+								"VpbJSynlGZtHaan4y5aEgg=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "Others"
+								}
+							]
+						},
+						{
+							"name": "Stone Summit Cannon backfire",
+							"guids": [
+								"AVxLs4/Rq6BKt3hpUkWZwA=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "Others"
+								}
+							]
+						},
+						{
+							"name": "Mistburn Mortar",
+							"guids": [
+								"bDWz1ltkCLROskyzPkBFgA=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "Others"
+								}
+							]
+						}
+					]
+				}
+			],
+			"effects": [
+				{
+					"name": "Thousand Needles",
+					"description": "Has no other indicator. Setting duration to around 1000 also works, but leaves some floating particles.",
+					"guids": [
+						"zz+8XmfUsY1KEvC+sFk+zg=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "All"
+						}
+					]
+				},
+				{
+					"name": "Throw Cursed Artifact",
+					"guids": [
+						"F7NMUh1olaJKByaKBlhF6g=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "All"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Elementalist",
+			"categories": [
+				{
+					"name": "Catalyst",
+					"effects": [
+						{
+							"name": "Fire Jade Sphere Phoenix",
+							"guids": [
+								"otCCxGw8vr9EeRmkMh9+mw=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Fire Jade Sphere Explosion",
+							"guids": [
+								"QbhkxEIKr6NAEN85IRJ7vw=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "Others"
+								}
+							]
+						},
+						{
+							"name": "Fire Jade Sphere Gadget",
+							"guids": [
+								"9gYP/yM1jZBDpUiKEl3mYg=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Water Jade Sphere Dragon",
+							"guids": [
+								"Tg/x0rw0tplDClcXKJRSKw=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Water Jade Sphere Explosion",
+							"guids": [
+								"jIbz7+11vbRCvun9thjiew=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "Others"
+								}
+							]
+						},
+						{
+							"name": "Water Jade Sphere Gadget",
+							"guids": [
+								"RmDHcMUf3LRJofkKFlg7mg=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Air Jade Sphere Dragon",
+							"guids": [
+								"DJvWejR55pJGxcxkKFhXjA=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Air Jade Sphere Explosion",
+							"guids": [
+								"2WGj7t0YdLtIHNutpY+OZQ=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "Others"
+								}
+							]
+						},
+						{
+							"name": "Air Jade Sphere Gadget",
+							"guids": [
+								"TttlKsrLe51IIKUZ7piSUA=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Earth Jade Sphere Turtle",
+							"guids": [
+								"qIAJmpJjOpJNc+2f8pCF3w=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Earth Jade Sphere Explosion",
+							"guids": [
+								"nnjMS3FwzaBPheQX7EjzDQ=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "Others"
+								}
+							]
+						},
+						{
+							"name": "Earth Jade Sphere Gadget",
+							"guids": [
+								"4c9LF9JFd4pLLXbzNZjbMQ=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Evoker",
+					"effects": [
+						{
+							"name": "Buoyant Deluge",
+							"guids": [
+								"Ig4izQHQvoRPx7uGNEIzMA==",
+								"mo0JnCPGEKRMs8Uvm629PA==",
+								"zlzDoYGfFY5NvRHArMnCRA=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "Others"
+								}
+							]
+						},
+						{
+							"name": "Conflagration",
+							"guids": [
+								"rxFpaKWOw7VKgQwZHooiWg==",
+								"a/rKyBKpgp9C41unwnYPNw=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "Others"
+								}
+							]
+						},
+						{
+							"name": "Seismic Impact",
+							"guids": [
+								"WtzoH/MWBYNNUOQhT0UhRw==",
+								"U0UHnWXuXLxNXF1cJ4vydA=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "Others"
+								}
+							]
+						}
+					]
+				}
+			],
+			"effects": [
+				{
+					"name": "Firestorm",
+					"guids": [
+						"GU0q6j3bYp5GcbnkzI3gAQ=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "All"
+						}
+					]
+				},
+				{
+					"name": "Lightning storm",
+					"guids": [
+						"cHqtuMYAHpVPUQk68lV2PQ==",
+						"sNj9WKpSLZxOXFnlRoufAw=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "All"
+						}
+					]
+				},
+				{
+					"name": "Ice storm",
+					"guids": [
+						"CC0jp9cw85dMZRaKQ7JwDA=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "All"
+						}
+					]
+				},
+				{
+					"name": "Sandstorm",
+					"description": "Unlike the other storms, sandstorm has no ring indicator",
+					"guids": [
+						"ljx65jF3GL5OEoxiMqeFvg=="
+					],
+					"behaviors": [
+						{
+							"type": "Show",
+							"caster": "All"
+						}
+					]
+				},
+				{
+					"name": "Fire etching",
+					"description": "Setting duration to 100 also works well.",
+					"guids": [
+						"o4/x7vFWnYZOoXnsDsLfOw==",
+						"PgSeXlbWlJ1Dy4T4Lt6yaA==",
+						"daDGVItwZ4hNXHBAEDzqsw==",
+						"YAMp+4wSW7ZMIz8bHxop1g==",
+						"vZaxgDMoNrZM7LKzRzXgxA=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "All"
+						}
+					]
+				},
+				{
+					"name": "Water etching",
+					"description": "Setting duration to 100 also works well.",
+					"guids": [
+						"ln/nrmKpUZ1LhkO35+o+xg==",
+						"vaTNJ1PGXqpKWNpvBTr2HA==",
+						"umopSz4j/7ZICuYtYWnagg==",
+						"+dEFqnuX2r9NnZfq06kPtw==",
+						"2MGgFPptyYlB98hR55SFew=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "All"
+						}
+					]
+				},
+				{
+					"name": "Air etching",
+					"description": "Setting duration to 100 also works well.",
+					"guids": [
+						"Pul0AsHHgoFD/E91hUH4zw==",
+						"y/pyY0Enm5RHLIEdR6tIzg==",
+						"YbQqOa8n0K9PdU9RNCeeEw==",
+						"MIBGgSjjoaFHFU1B34sOkQ==",
+						"YZ1qGV7qaK1LtLH30QOJFA=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "All"
+						}
+					]
+				},
+				{
+					"name": "Earth etching",
+					"description": "Setting duration to 100 also works well.",
+					"guids": [
+						"HeGJq7MGda9A1XJ1/bsQYQ==",
+						"Rnz0bewIVYJP5bb1tSur/Q==",
+						"RAC6Q2TrD7BMuaeR8yyO4A==",
+						"ZwYYAs4qVINFyBx5PjJ4Kg==",
+						"/OqCEBh006lBXbp0r9XEUg=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "All"
+						}
+					]
+				},
+				{
+					"name": "Air Spear 2",
+					"guids": [
+						"paBTWslHTJhHVOTlV2FCSw=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "Others"
+						}
+					]
+				},
+				{
+					"name": "Air Spear 4",
+					"guids": [
+						"MnBKeDVanphFklEXRopb+Q=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "Others"
+						}
+					]
+				},
+				{
+					"name": "Water Spear 4",
+					"guids": [
+						"zP5QFW73SbhPmLRphgK/fQ=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "Others"
+						}
+					]
+				},
+				{
+					"name": "Fire Dagger 4: ring",
+					"guids": [
+						"LBZEJ0LgVptDRx7OlEVzBg=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "Others"
+						}
+					]
+				},
+				{
+					"name": "Fire Dagger 4: initial",
+					"guids": [
+						"7zyD88k1drRIH6yfn2b1YQ=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "Others"
+						}
+					]
+				},
+				{
+					"name": "Air Dagger 5",
+					"guids": [
+						"xThpITe+0KZE1iP6dDP93w=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "All"
+						}
+					]
+				},
+				{
+					"name": "Earth Dagger 5: path",
+					"guids": [
+						"VxrrWflUYplH6D2jt6B4+g=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "Others"
+						}
+					]
+				},
+				{
+					"name": "Earth Dagger 5: aoe",
+					"guids": [
+						"15ZA+B/eYodOE+0oA8WL4w=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "Others"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Mesmer",
+			"categories": [
+				{
+					"name": "Chronomancer",
+					"effects": [
+						{
+							"name": "Well of Action vfx",
+							"description": "Only affects part of the skill effect",
+							"guids": [
+								"jenaQZjlWaVI6T54NykxUg=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Well of Action pulse",
+							"guids": [
+								"e7W4mNndDZRPEpLc4gIo/Q=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "Others"
+								}
+							]
+						},
+						{
+							"name": "Well of Precog vfx",
+							"description": "Only affects part of the skill effect",
+							"guids": [
+								"V6mWCHAme55CcamwQdeehA=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Well of Precog pulse",
+							"guids": [
+								"z/c9FkjVX6tMCJ96vLb05Q=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "Others"
+								}
+							]
+						},
+						{
+							"name": "Well of Calamity vfx",
+							"description": "Only affects part of the skill effect",
+							"guids": [
+								"IKCTvmQqsLRH7wfusOPmnQ=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Well of Calamity pulse",
+							"guids": [
+								"Qvlo2x5gW5pIZaOz4DiS1A=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "Others"
+								}
+							]
+						},
+						{
+							"name": "Well of Senility vfx",
+							"description": "Only affects part of the skill effect",
+							"guids": [
+								"edr/SVZXX6hMJ3K4Klg0Bw=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Well of Senility pulse",
+							"guids": [
+								"sgiIpp6IRbNM23VvTA6R3w=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "Others"
+								}
+							]
+						},
+						{
+							"name": "Gravity Well vfx",
+							"description": "Only affects part of the skill effect",
+							"guids": [
+								"kKQ+fF4PJK9F7Azrd0aOiQ=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Gravity Well pulse",
+							"guids": [
+								"rtj2vYriHLNPl88eykunYA=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "Others"
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Mirage",
+					"effects": [
+						{
+							"name": "Effervescence",
+							"guids": [
+								"k/fHmFw527lBvfjgzgWfYw=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "Others"
+								}
+							]
+						},
+						{
+							"name": "Crystal Sands",
+							"guids": [
+								"CpNc1alJ8rpAzzLK6/Sobg=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "Others"
+								}
+							]
+						},
+						{
+							"name": "Mirage Mirror",
+							"guids": [
+								"XKU3fNehVqZFFAby9c1wEw=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "Others"
+								}
+							]
+						},
+						{
+							"name": "Jaunt",
+							"guids": [
+								"Xi7UPk9zrY5D+x9qwjhaOg==",
+								"Qs/cN8CQ65ZDFg66eFSg1w==",
+								"mq29bosZzKdPskFgM3xVtg=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "Others"
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Virtuoso",
+					"effects": [
+						{
+							"name": "floating blades",
+							"guids": [
+								"CN1V8BoFl5hBYzlQn6boQw==",
+								"n6iOFNgr6I5HfY3cY4m2SQ==",
+								"RIgL7jhAl7hHuEIAms+tgg==",
+								"2Oi467xZypBOfzGVKmGQZQ==",
+								"VJLgu+/M9L1A8An3zFYaYA=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Rain of Swords",
+							"guids": [
+								"LLcZNV5m1aZGmeeo206Dgw=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "Others"
+								}
+							]
+						}
+					]
+				}
+			],
+			"effects": [
+				{
+					"name": "Staff 4",
+					"guids": [
+						"8JRRNSzZKaZNh8nGUWQfcw=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "Others"
+						}
+					]
+				},
+				{
+					"name": "Staff 5",
+					"guids": [
+						"QDgEppG8y4RBgjxS7EcBTA=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "Others"
+						}
+					]
+				},
+				{
+					"name": "Torch 4",
+					"guids": [
+						"eIggwNZnwL9E4ZAwvJ+2SA==",
+						"AFwAxbJ32L9OLp6xHQ/49g=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "Others"
+						}
+					]
+				},
+				{
+					"name": "Spear 2",
+					"guids": [
+						"AxhNAoT3H5RL5hH7ZXdg7g=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "Others"
+						}
+					]
+				},
+				{
+					"name": "Spear 5",
+					"guids": [
+						"hCWa6d/juqdJOuOymIjJFQ==",
+						"b4pUU5AP7JxBrjmSlMiQRQ==",
+						"J/AS4U+kHppBzOrralhLZw==",
+						"veNqnqNXhKhM4pejLe1ZNw==",
+						"+ZcfT4F5WJZPOFm7y/qDXQ==",
+						"U/gPj6BuCZlM8n/UkEb8nw=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "All"
+						}
+					]
+				},
+				{
+					"name": "Rifle 3",
+					"description": "Only affects the purple cloud",
+					"guids": [
+						"mD6bqh69W7FGWMnl85wrbg=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "All"
+						}
+					]
+				},
+				{
+					"name": "Illusionary warden bubble",
+					"guids": [
+						"Ah1Bg5a3Yq5PS3zwf+UoYw=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "Others"
+						}
+					]
+				},
+				{
+					"name": "Phantasmal Warlock beam",
+					"guids": [
+						"/SOckt3vApBJVbx/zRKMPw=="
+					],
+					"behaviors": [
+						{
+							"type": "Show",
+							"caster": "Others"
+						}
+					]
+				},
+				{
+					"name": "Phantasmal Mage wave",
+					"guids": [
+						"n2y24vPLt5BJJE0FbchN+g=="
+					],
+					"behaviors": [
+						{
+							"type": "Show",
+							"caster": "Others"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Necromancer",
+			"categories": [
+				{
+					"name": "Reaper",
+					"effects": [
+						{
+							"name": "Shroud wings",
+							"guids": [
+								"hlKrMFdvt5dG3KyPB/GzLQ=="
+							],
+							"behaviors": [
+								{
+									"type": "Show",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Shroud left eye",
+							"guids": [
+								"TB36SFTFKK9GEMWxFgL4rw=="
+							],
+							"behaviors": [
+								{
+									"type": "Show",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Shroud right eye",
+							"guids": [
+								"JTmIwuHLlrFDDnqfcNFPGw=="
+							],
+							"behaviors": [
+								{
+									"type": "Show",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Shroud fog",
+							"guids": [
+								"lg9WF+AZkJRB/90Rq5W6QQ=="
+							],
+							"behaviors": [
+								{
+									"type": "Show",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Shroud vfx 1",
+							"guids": [
+								"TnJavIf0mJFJn+97VNBTiA=="
+							],
+							"behaviors": [
+								{
+									"type": "Show",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Shroud vfx 2",
+							"guids": [
+								"UH08Nx57CK9H3uU0fBgoVg=="
+							],
+							"behaviors": [
+								{
+									"type": "Show",
+									"caster": "All"
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Scourge",
+					"effects": [
+						{
+							"name": "F5",
+							"guids": [
+								"DCoBtFZOL7hEM7JMH212jQ=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Shades",
+							"guids": [
+								"v0IWG//MCb5A1xAActnewg=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "Others"
+								}
+							]
+						},
+						{
+							"name": "Ghastly Breach",
+							"guids": [
+								"SPImmWLKx51IV/Nrq+39XA=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Harbinger",
+					"effects": [
+						{
+							"name": "Blight",
+							"guids": [
+								"h3RA5Cr9n61JkyDZZirMMw==",
+								"cBPJXfhx2aVIc/Gg2LAG4w==",
+								"MtNy/BFe27VKWseTR8LvKw==",
+								"0l4zwjk6ZqJGSCh222h7aA==",
+								"DYgjc7BcOqJM+S7+9UthqQ==",
+								"6axqPBNmGo9DhP8kXvmTJw==",
+								"TaHN8omZ3qlFAYO+6kP3Ww==",
+								"Sx+SN5S4ib9Ewnh8ikYJkg==",
+								"LPXDDcmSTotC5f5pltvNfw==",
+								"hpf9Uikjk5BBdsPepB2H9Q==",
+								"k/rKzYzcaYlM2IqISt5f8w=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Shroud mist 1",
+							"guids": [
+								"XC1XgnJ6vIJKLKLO5SoGgw=="
+							],
+							"behaviors": [
+								{
+									"type": "Show",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Shroud mist 2",
+							"guids": [
+								"eEY42ZrZZr9Msq49CvTLHg=="
+							],
+							"behaviors": [
+								{
+									"type": "Show",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Shroud vfx",
+							"guids": [
+								"aXZvF0W4C7dJ4B0SIlOXvQ=="
+							],
+							"behaviors": [
+								{
+									"type": "Show",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Shroud 5",
+							"guids": [
+								"mG3p8Gb3TYhNKuqrmjtkbA=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "Others"
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Ritualist",
+					"effects": [
+						{
+							"name": "Shroud",
+							"guids": [
+								"L++IFI3ihppHsrE+qe3Iww=="
+							],
+							"behaviors": [
+								{
+									"type": "Show",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Wanderlust",
+							"guids": [
+								"svsVtGtNUbxNhx48eaNVNQ==",
+								"hp1L4ca1GKRAd/JulE2s+Q==",
+								"ZyRwSBE/fZVPJmwvzn4c4A=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Preservation",
+							"guids": [
+								"0r4y5ojgXKdLabJd0mwjXg=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Summon Spirits",
+							"guids": [
+								"mkP6p4vRI49EXmqGK/6zig=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Innervate Anguish",
+							"guids": [
+								"lZbz5FQWGJpEb/dv8uXpmA=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "Others"
+								}
+							]
+						},
+						{
+							"name": "Innervate Wanderlust",
+							"guids": [
+								"bPFVxs0NWZZA4kqs1g/9vg=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "Others"
+								}
+							]
+						},
+						{
+							"name": "Innervate Preservation",
+							"guids": [
+								"PmSnsi5NDbBCo+P8ZmoUgQ=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "Others"
+								}
+							]
+						},
+						{
+							"name": "Resilient Weapon",
+							"guids": [
+								"rxtjqoICraZDEyaoBC8XKw=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "Others"
+								}
+							]
+						},
+						{
+							"name": "Splinter Weapon",
+							"guids": [
+								"74RNWo5ClZhDXKcvDL+F1Q=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "Others"
+								}
+							]
+						},
+						{
+							"name": "Weapon of Remedy",
+							"guids": [
+								"v4GVbtwncZ1ISj7oPQ+cHA=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "Others"
+								}
+							]
+						},
+						{
+							"name": "Nightmare Weapon",
+							"guids": [
+								"sD2kAreQhLFPE7RRGGEZ7A=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "Others"
+								}
+							]
+						},
+						{
+							"name": "Weapon of Warding",
+							"guids": [
+								"5JJfdMF0W6FF+sV5NrXzdg=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "Others"
+								}
+							]
+						},
+						{
+							"name": "Xinrae's Weapon",
+							"guids": [
+								"La1vlCOvppxFXQEr5ICkJg=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "Others"
+								}
+							]
+						},
+						{
+							"name": "Preservation SFX Bell",
+							"guids": [
+								"sgsXJ6M8hYNChRr941TZCg=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "Others"
+								}
+							]
+						}
+					]
+				}
+			],
+			"effects": [
+				{
+					"name": "Soul Shards",
+					"guids": [
+						"FmmaeEDwX6JI1pGWB68G1g==",
+						"Xgc9UxSxboZCN9GqkFTdaQ==",
+						"hMMMOA+sAJ5JGuSry7bJpg==",
+						"W7oyBBTEKb9E1uyxjGMEyw==",
+						"S2EgI/EVrqdHyWb9wO88Wg==",
+						"AFVeBZ+eWohCLoEsmaCGuA=="
+					],
+					"behaviors": [
+						{
+							"type": "Show",
+							"caster": "All"
+						}
+					]
+				},
+				{
+					"name": "Well of Blood",
+					"guids": [
+						"JRbnqej474ZI5gmJootSzw=="
+					],
+					"behaviors": [
+						{
+							"type": "Show",
+							"caster": "All"
+						}
+					]
+				},
+				{
+					"name": "Well of Suffering",
+					"guids": [
+						"uaPyUqnC1b9NgQSTgrCm5A=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "Others"
+						}
+					]
+				},
+				{
+					"name": "Well of Corruption",
+					"guids": [
+						"jq+aShSXsIxIYY3gr6wmow=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "Others"
+						}
+					]
+				},
+				{
+					"name": "Well of Power",
+					"guids": [
+						"4Y2xctd1yL5IdkasKdHqWg=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "Others"
+						}
+					]
+				},
+				{
+					"name": "Well of Darkness",
+					"guids": [
+						"mV4urPco3L1Pom9I4lIB9Q=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "Others"
+						}
+					]
+				},
+				{
+					"name": "Staff 3",
+					"description": "Affects the visual when the mark is activated",
+					"guids": [
+						"7cuZl9cCZrNPZzlYRRjnlA=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "All"
+						}
+					]
+				},
+				{
+					"name": "Greatsword 4",
+					"guids": [
+						"9yRgUvqDxKNMQG+Iu43Iaw=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "All"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Gen 1 legendaries",
+			"categories": [
+				{
+					"name": "Frostfang",
+					"effects": [
+						{
+							"name": "Footfalls",
+							"guids": [
+								"MPxc00m7V7JN1VlXjTqM5w=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Arm Aura",
+							"guids": [
+								"DiQhvFpfu7xLXERdHWlJYQ=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Incinerator",
+					"effects": [
+						{
+							"name": "Draw",
+							"guids": [
+								"PF76n0nODIJGymx1aZOEWw=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Footfalls",
+							"guids": [
+								"9UsRmfzl9oRNgEYZBpWidA=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Arm Aura",
+							"guids": [
+								"bNPLF3IfJ5FLjpMxKXSC6w=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Moot",
+					"effects": [
+						{
+							"name": "Footfalls",
+							"guids": [
+								"8w2klPq9Wo9NTX28iJLOfQ=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Aura",
+							"guids": [
+								"2EbdLDnXMZhAonxOdQDcTg=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Quip",
+					"effects": [
+						{
+							"name": "Footfalls",
+							"guids": [
+								"4zhHOGWPwb5BixLLlxvCOg=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Aura",
+							"guids": [
+								"+epe0CQdbqBMB8OWOj4dHA=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Projectiles",
+							"description": "Also removes sound effects",
+							"guids": [
+								"8d0RATX2e4VDBMbfWHK3sQ==",
+								"hDv+6npymqBN/M5PGH3ZnA=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "Others"
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Meteorlogicus",
+					"effects": [
+						{
+							"name": "Footfalls",
+							"guids": [
+								"rsxGcke4nZhMxotsGGP3cA=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Bolt",
+					"effects": [
+						{
+							"name": "Footfalls",
+							"guids": [
+								"tLeD/O5PGI9NZx8caWxv1A=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Aura",
+							"guids": [
+								"D8JYuuCIH4lPe5XNc8SiRw=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Minstrel",
+					"effects": [
+						{
+							"name": "Footfalls",
+							"guids": [
+								"lXmKo+S45atF/M6vFnUNww=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Draw",
+							"guids": [
+								"TDz70m57LINB0Sizh6VOWw=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Flameseeker Prophecies",
+					"effects": [
+						{
+							"name": "Footfalls",
+							"guids": [
+								"xwf5K0jWT6pA1wWdhAv4ug=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Arm Aura",
+							"guids": [
+								"B4miuUa32btDmTtIrWOqew==",
+								"qYF2ibIqgahDeSR1y3fztg=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Rodgort",
+					"effects": [
+						{
+							"name": "Footfalls",
+							"guids": [
+								"YViflYB2yrBFW5ddGAFaXA=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Aura",
+							"guids": [
+								"PIFx1RY0oZFFVV8gvuYhXQ=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Howler",
+					"effects": [
+						{
+							"name": "Footfalls",
+							"guids": [
+								"VZ61r8L1JbdBfT5/7gO/Xw=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Aura",
+							"guids": [
+								"LSwbuKsrL79FSLx1SFW3eg=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Sunrise",
+					"effects": [
+						{
+							"name": "Footfalls",
+							"guids": [
+								"vQZ6//3t1blJ0+2bg4aBbw=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Aura",
+							"guids": [
+								"fTS1MF2N2LBBV7qC5sRA2g=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Twilight",
+					"effects": [
+						{
+							"name": "Footfalls",
+							"guids": [
+								"DqYzJPeieaxDc0alTXVSXQ=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Aura",
+							"guids": [
+								"UVAiBHpUBZVMPsYNs3Jnuw=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Eternity",
+					"effects": [
+						{
+							"name": "Footfalls",
+							"guids": [
+								"ZLIGU884T79Ht0KLcIuamQ=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Aura",
+							"guids": [
+								"psnWnckXyq5ArdYapI/+Qw=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Juggernaut",
+					"effects": [
+						{
+							"name": "Footfalls",
+							"guids": [
+								"RKrCQmo2/JBGgpGvPQGZAA=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Aura",
+							"guids": [
+								"mKG4teLpJqFKzmbSDBm5uA=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Kudzu",
+					"effects": [
+						{
+							"name": "Draw",
+							"guids": [
+								"ElwNn1d7SL9P2V9MBK2MOg==",
+								"9XCkE0JOd5VIG4/lDR7EEA=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Footfalls",
+							"guids": [
+								"Uwyb/YaQ0axIolFh9pfLIw=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Arm Aura",
+							"guids": [
+								"Wnci9BLQz65J7WW5Q0S8qQ==",
+								"pqvqx3+HQ6lB9tuqB5DNEQ==",
+								"YPCQjWsQDZ5EFtLmmCuDqw==",
+								"8yyvVaLME4VFFBX+aBKojw=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Predator",
+					"effects": [
+						{
+							"name": "Footfalls",
+							"guids": [
+								"kpA7+k8SSJtPAdeMnf9amA=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Aura",
+							"guids": [
+								"3dLpY4pYRolA080Bjjo5Lw=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Dreamer",
+					"effects": [
+						{
+							"name": "Draw pony",
+							"guids": [
+								"VmPhHVtJY4RBTt5UGKGoWA=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Draw glow",
+							"guids": [
+								"e+EiQwe6XJlH7uzl4DICiw=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Footfalls",
+							"guids": [
+								"50Hsdxs947tOYJ+p+o56TA=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Aura",
+							"guids": [
+								"865dpKOLMqZEISw+Qm9WYw==",
+								"Nq5nxa/FW5dEso+VDDAgcg==",
+								"QJ72giC5/ZdL/Dz5m+1Bug==",
+								"RRC9vdjYG4ZOD8MiOMuw7g=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Projectiles",
+							"description": "Includes sound effects",
+							"guids": [
+								"AwPymqA5VaxG7nzsix7CSg=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "Others"
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Bifrost",
+					"effects": [
+						{
+							"name": "Footfalls",
+							"guids": [
+								"tBn/1r2Ur5BG/KTw5p2JIA=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Aura",
+							"guids": [
+								"7h60whLF0JBCZrY3vaD68Q=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Kamohoali'i Kotaki",
+					"effects": [
+						{
+							"name": "Footfalls",
+							"guids": [
+								"QWcP2gDXgpxPNXM7YjrBfg=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Aura",
+							"guids": [
+								"iryE2+UqEYBBGvUCFPoCSQ=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Gen 2 legendaries",
+			"categories": [
+				{
+					"name": "Astralaria",
+					"effects": [
+						{
+							"name": "Footfalls",
+							"guids": [
+								"roWKZEwpdodJGshTfLwnxQ=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Arm Aura",
+							"guids": [
+								"8h5Q7LItb7tFCANx72QFwQ==",
+								"c+7iVto0S4FJY+VBT7YJTA==",
+								"/fO0jxUBBr1Mm4Qn/MG/Sw==",
+								"5Zc+fOXK1IdLuhKPECqq0g==",
+								"rnjf+heNc75KrVGxho0o8w==",
+								"vN9zkCIntpJDDbxpIJjK6A=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Claw of Khan-Ur",
+					"effects": [
+						{
+							"name": "Footfalls",
+							"guids": [
+								"idKXp8Nj+5RGotfZ5yvaDQ=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Aura",
+							"guids": [
+								"8gjm1DN2J6VD5xE4YK4Rew=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Eureka",
+					"effects": [
+						{
+							"name": "Footfalls",
+							"guids": [
+								"hsJjYhrp86tO7f4h1wYSLA=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Aura",
+							"guids": [
+								"nl5vlE+IGZ9Er8VztaCRTg==",
+								"SwlO3xEDnrtFTM0v63euIw=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "HOPE",
+					"effects": [
+						{
+							"name": "Footfalls",
+							"guids": [
+								"fBPBDC5nSJdC+f/GVWn4YA=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Aura",
+							"guids": [
+								"yuCSaUyKJ5xHD+msAWENRg==",
+								"1soafab1X75EJGccnGOe0Q==",
+								"GoqLzfAEsJxCFSKIoIkHJQ==",
+								"sEnNbbQIop9DBXz/hpG6SQ==",
+								"u4hd8+gXopBHDmecSL5+6A==",
+								"BV7hg7WGQpxOhLT1KLg3BQ=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Xiuquatl",
+					"effects": [
+						{
+							"name": "Footfalls",
+							"guids": [
+								"z+TfJudmdpJEwmQYgeUxsg=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Snake",
+							"guids": [
+								"LWO9MlUHtKpMUza1fCAC/Q=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Shining Blade",
+					"effects": [
+						{
+							"name": "Draw",
+							"guids": [
+								"EymCruxuG45N7dNnuOPFng==",
+								"o/OVXzOPW7hPTxASUbLJ2g=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Footfalls",
+							"guids": [
+								"gaK+JYZS3bFKg6Q2eVHxsg=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Arm Aura",
+							"guids": [
+								"80NwNHTpqL1MXdpXgtJh+A==",
+								"6AGq1/84vYNE+HvoC49JeA==",
+								"qHXS1GU9rohM9XTL7HaJyw==",
+								"apAaWGMCpK5NwkR6pB8g2Q=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Binding of Ipos",
+					"effects": [
+						{
+							"name": "Footfalls",
+							"guids": [
+								"XevjWmyvGZ1PG11eETlk1w=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Shooshadoo",
+					"effects": [
+						{
+							"name": "Footfalls",
+							"guids": [
+								"fi3xAXfbO5ZDULgwnApI7g=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Flames of War",
+					"effects": [
+						{
+							"name": "Footfalls",
+							"guids": [
+								"HLT5N1Tpy7hLODcq0d6jCw=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Verdarach",
+					"effects": [
+						{
+							"name": "Footfalls",
+							"guids": [
+								"5Xme4l02zJhDdB5TfvuWBg=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Exordium",
+					"effects": [
+						{
+							"name": "Draw vortex",
+							"guids": [
+								"eq96N/Ehlb9KtfWxbHPVlg==",
+								"Q+7XgUug8ItPeOSIG9wGIw=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Footfalls",
+							"guids": [
+								"PSqDaBgMj4lJxQIsf6KvJw=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Arm Glow",
+							"guids": [
+								"FlB6f8DifrtC4G8pol4Shw==",
+								"m0s7hp5He6tC6NCcTcsdGA==",
+								"e5kYZPysabRK+HWZyENUGw=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Draw",
+							"guids": [
+								"JRSNNSpMhKhOG9SyFxhNqg==",
+								"8n90HHVKJKBBD7kbYJBciA=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Sharur",
+					"effects": [
+						{
+							"name": "Footfalls",
+							"guids": [
+								"EtO8xsGP4KVFHkWYneXHAQ=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Coral",
+							"guids": [
+								"IkyWEH4VX5lFZn0pCI1fxw=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Pharus",
+					"effects": [
+						{
+							"name": "Footfalls",
+							"guids": [
+								"9ygkZ5hyfbFIwdPKHG4/OA=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "HMS Divinity",
+					"effects": [
+						{
+							"name": "Footfalls",
+							"guids": [
+								"45wvOzePvphPaILVMioftQ=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Aura",
+							"guids": [
+								"7ACbACNXh6xPJ8mlaQZGnA=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Chuka and Champawat",
+					"effects": [
+						{
+							"name": "Footfalls",
+							"guids": [
+								"qlJRR1ninapDCN/ZXJaTDQ=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Aura",
+							"guids": [
+								"aFZfhQ3C8o1D8QzmABh6+Q==",
+								"JkNNPtIAaJNDqLYypjGs5g==",
+								"1pcJezEZAK5M9B4hrGtukw==",
+								"9oKs/KINiYNP9ByRrbu0BA==",
+								"2mcxqm8DjLlJzimhTjhNUg=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Nevermore",
+					"effects": [
+						{
+							"name": "Footfalls",
+							"guids": [
+								"9wbryhm8R4xJ/KSHdtyvpg=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Arm Aura",
+							"guids": [
+								"enrZXS4+tbZHiGD0H9qVSg==",
+								"A8ug3Piq0Y9CJ7PYx81gGg=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Gen 3 legendaries",
+			"categories": [
+				{
+					"name": "Aurene",
+					"effects": [
+						{
+							"name": "Draw",
+							"guids": [
+								"zHZAobYucoJLQouzWhIibg=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Footfalls",
+							"guids": [
+								"B0q5a6fdkalPV43M6HAUoQ=="
+							],
+							"behaviors": [
+								{
+									"type": "Show",
+									"caster": "All"
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Kralkatorrik",
+					"effects": [
+						{
+							"name": "Footfalls",
+							"guids": [
+								"x8Ht4RpbXpRO2KA+M+CGSQ=="
+							],
+							"behaviors": [
+								{
+									"type": "Show",
+									"caster": "All"
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Zhaitan",
+					"effects": [
+						{
+							"name": "Footfalls",
+							"guids": [
+								"8xyyjjVAY5ZFNWyUNjGRiw=="
+							],
+							"behaviors": [
+								{
+									"type": "Show",
+									"caster": "All"
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Jormag",
+					"effects": [
+						{
+							"name": "Footfalls",
+							"guids": [
+								"S7C9SX/t575A7DHi/zVLtg=="
+							],
+							"behaviors": [
+								{
+									"type": "Show",
+									"caster": "All"
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Soo Won",
+					"effects": [
+						{
+							"name": "Footfalls",
+							"guids": [
+								"BfzNQIn2U6JLBdHbYqH44A=="
+							],
+							"behaviors": [
+								{
+									"type": "Show",
+									"caster": "All"
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Primordus",
+					"effects": [
+						{
+							"name": "Footfalls",
+							"guids": [
+								"+RNdAJ3O8rtIHosIH7bk9A=="
+							],
+							"behaviors": [
+								{
+									"type": "Show",
+									"caster": "All"
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Mordremoth",
+					"effects": [
+						{
+							"name": "Footfalls",
+							"guids": [
+								"CL5uxVxyLpBC7S206vdB2g=="
+							],
+							"behaviors": [
+								{
+									"type": "Show",
+									"caster": "All"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Infusions",
+			"effects": [
+				{
+					"name": "Imperial Everbloom",
+					"guids": [
+						"phCFs3VD2blIEFuL8t0Jsw==",
+						"vMueQq5CG55KVLMI0VF4Dg=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "Others"
+						}
+					]
+				},
+				{
+					"name": "Winter's Heart Infusion",
+					"guids": [
+						"psskoPlQZIZOPaxLIlwaPA=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "Others"
+						}
+					]
+				},
+				{
+					"name": "Peerless Infusion",
+					"guids": [
+						"AJN0gzU416tPZIVaPxTSXg=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "Others"
+						}
+					]
+				},
+				{
+					"name": "Clockwork Infusion",
+					"guids": [
+						"KHK9Fi2Vjq1BJYeEymHgGg==",
+						"3QfF6Jm2KIxF1olonmwTpQ=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "Others"
+						}
+					]
+				},
+				{
+					"name": "Abyssal Infusion aura",
+					"guids": [
+						"5lC5Kg1Q/IRB0ihbzvaeUQ==",
+						"EctNgiKpI6hB0HLcSs6/zA==",
+						"kNK/qU4nlq5B0WCdyRgLTQ==",
+						"gOjr0lrDtJJAG9a+cqPoYA=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "Others"
+						}
+					]
+				},
+				{
+					"name": "Abyssal Infusion body tint",
+					"guids": [
+						"HODibVfMXbVC1GtAV4CafQ=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "Others"
+						}
+					]
+				},
+				{
+					"name": "Ghostly Infusion",
+					"guids": [
+						"Kkg0IqYz8apHIRJYZsbSjw=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "Others"
+						}
+					]
+				},
+				{
+					"name": "Primordus Left Eye Infusion",
+					"guids": [
+						"Z3ULAAyX1p9N1bXnAiph3w=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "Others"
+						}
+					]
+				},
+				{
+					"name": "Primordus Right Eye Infusion",
+					"guids": [
+						"zgJir5VxTKlPZ6HyAAs07g=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "Others"
+						}
+					]
+				},
+				{
+					"name": "Arcane Flow Infusion aura",
+					"guids": [
+						"cDeUm9iXLKRPZFAWo+UMNQ=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "Others"
+						}
+					]
+				},
+				{
+					"name": "Arcane Flow Infusion body tint",
+					"guids": [
+						"IWNnipXz0JdNeF+s5PgNQA=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "Others"
+						}
+					]
+				},
+				{
+					"name": "Mote of Darkness",
+					"guids": [
+						"oTrb9Ax7JJtEQ9w5D5iTuQ=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "Others"
+						}
+					]
+				},
+				{
+					"name": "Chak Infusion trail",
+					"guids": [
+						"RJexpePC26hMm056Jur30A=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "Others"
+						}
+					]
+				},
+				{
+					"name": "Chak Infusion bubbles",
+					"guids": [
+						"+zPwIEboc5FGdIRIkQSekA=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "Others"
+						}
+					]
+				},
+				{
+					"name": "Celestial Infusion (Red)",
+					"guids": [
+						"k4g0754x14tJf/F156I0hg=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "Others"
+						}
+					]
+				},
+				{
+					"name": "Frost Legion Infusion - full",
+					"guids": [
+						"SsvtJ4We1p9DRXC4zL0slA=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "Others"
+						}
+					]
+				},
+				{
+					"name": "Frost Legion Infusion - right eye",
+					"guids": [
+						"v2zrfP/XB71ClKMJ4VKngA=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "Others"
+						}
+					]
+				},
+				{
+					"name": "Frost Legion Infusion - left eye",
+					"guids": [
+						"OK6EZNH1qKpM1XQhFylOEA=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "Others"
+						}
+					]
+				},
+				{
+					"name": "Frost Legion Infusion - mist",
+					"guids": [
+						"guEQ3aNn2rBO3Y3m7n7YTg=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "Others"
+						}
+					]
+				},
+				{
+					"name": "Frost Legion Infusion - body tint",
+					"guids": [
+						"r2wbZQFKt4BBzaYO2ERpjA=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "Others"
+						}
+					]
+				},
+				{
+					"name": "Forest Wisp Infusion",
+					"guids": [
+						"dsNdH9wOf6xCqZTt09WGeA==",
+						"jIhTnRWPnKNHyULKCFeh1Q==",
+						"82HZBu9tuaRNgIx04fxmRQ==",
+						"jWCvxEbRyINP21GfpG6qsA==",
+						"gI4Gvdfe9L9KNYUVd2Bcrg==",
+						"gyoNBgr4q5pE0lasG0UE6g==",
+						"KV3ZRTOv+6RGw3t/xNbWcA=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "Others"
+						}
+					]
+				},
+				{
+					"name": "Possession Infusion",
+					"guids": [
+						"jFGum/AomYVAzrTzjejNvQ=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "Others"
+						}
+					]
+				},
+				{
+					"name": "Moto's Unstable Bauble Infusion: Blue",
+					"guids": [
+						"6CsyHVSNj7dBYcHSeD3Lag=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "Others"
+						}
+					]
+				},
+				{
+					"name": "Moto's Unstable Bauble Infusion: Red",
+					"guids": [
+						"ptdZN6IgjIRPJGpyI4/owQ=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "Others"
+						}
+					]
+				},
+				{
+					"name": "Aurillium Infusion",
+					"guids": [
+						"mXNS2mvusbJACuepCSKD9w=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "Others"
+						}
+					]
+				},
+				{
+					"name": "Mistwalker Infusion",
+					"guids": [
+						"SYqT6U28mrtMnq6RC6PoFw=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "Others"
+						}
+					]
+				},
+				{
+					"name": "Eikasia",
+					"guids": [
+						"AFS09XcyRpJLL/GHKs7RGA==",
+						"oYoKh+SQQ49FI95+AogFuA==",
+						"GxwMLxAkz7dEAYBLUJyH5Q==",
+						"pdvymRiocIRFp/vRh23xAQ==",
+						"JI53xoHnv6xI143cF9mxoQ==",
+						"8vjNIzWHZa9ARumKN8VCog==",
+						"UWzZSbyxs65IROj4sXjjWw==",
+						"9DyvG6RbE4tP3e3oaup8YA==",
+						"W2yvW/2/Q5VLVn4DDqhM5g==",
+						"4e0hjTon1o5I6zs0FUfNdQ==",
+						"QYz5wPjRjIhIEjDL1+tEVw==",
+						"ZCtRvnGGBKFEi4YXbGpC2w==",
+						"DkIZ8zvY0a5IrbBPrKJ/Yw==",
+						"yGXj96XOzYlNdWluSoX20Q==",
+						"sTExyRIEgpVPg1FwpWYjmw==",
+						"odjbKxaFB7VFlzyi6BST3w=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "Others"
+						}
+					]
+				},
+				{
+					"name": "Deldrimor Stoneskin infusion",
+					"guids": [
+						"bVgJprmSmY1PwKUcafNrVQ=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "Others"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Enrichments",
+			"effects": [
+				{
+					"name": "Koda's Warmth",
+					"guids": [
+						"DviP4oWm34dN0h7UA0hPWw=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "All"
+						}
+					]
+				},
+				{
+					"name": "Otter's Blessing",
+					"guids": [
+						"C+tVYoXSCZ5ApSxYjI5Q6g==",
+						"SXRXjZQXlLdK0lprf1ZOXA==",
+						"Tpu52vvK3bdN0mITT8aYVw==",
+						"X4chvRtVJa1InA+DX9RHaQ==",
+						"Xs3ydLxnw79Hio9enDplIg==",
+						"KeylVdBQAYdEOEQtvk0H4g=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "All"
+						}
+					]
+				},
+				{
+					"name": "Celebratory Birthday Enrichment",
+					"guids": [
+						"UdXFQJC6U5FE7xN41dPrsg==",
+						"AGFlEBSgFbNGymoT/mDV8Q=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "All"
+						}
+					]
+				},
+				{
+					"name": "Wurm's Magical Blessing",
+					"guids": [
+						"C3O0foFyBotOEken7UiD/w==",
+						"WxtU5jB1NpNBHwTL0IaxAQ==",
+						"0NEKgzdDxJZPTacCyJVnDQ==",
+						"tkE2X+IJeKJLJqDNtDHj7w==",
+						"1YD3wtM8WIhCt9U7/8Na5w==",
+						"67/Db8hDl7NGhDDirSd1XQ=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "All"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Mounts",
+			"effects": [
+				{
+					"name": "Skyscale Blast",
+					"guids": [
+						"P6CuHqggZIBPbuV086cwTQ=="
+					],
+					"behaviors": [
+						{
+							"type": "Hide",
+							"caster": "Others"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Other legendaries",
+			"categories": [
+				{
+					"name": "Klobjarne",
+					"effects": [
+						{
+							"name": "Draw",
+							"guids": [
+								"FeAAFPOCoJZFXkUGcRpaIQ=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Footfalls",
+							"guids": [
+								"z82Tsmw1CYRGgjuvGEkcRw=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Ghostly Follower",
+							"guids": [
+								"KKyQ3gwjTb5AZnRPiLfaiQ==",
+								"w/e3QH6JWotPh6eKbbR+7A==",
+								"9tiRcXhAmppEsVP/PhxFsA==",
+								"grVfzS7Mz7NCDpTkH3ZJVQ==",
+								"cqSiYfgAvb9Md8jNwW7d+w==",
+								"WZ/RBcjr8JZOFn5tbU3k2Q==",
+								"u29QZM8+1Z5C+oQMfJWQew==",
+								"y8X9cR6EirRN1b6ZOb0krg==",
+								"GuWSYVuWh59D0SQldyDhLg==",
+								"BSeVmsAvnplNbeY3Jb4dWg==",
+								"oR77EDOzM6dPVIVltKGl1Q==",
+								"2+u+CFfG0rRHK4/xFmARNQ==",
+								"6UvqZhtAD7lGtIeM2nsQ3w==",
+								"KMYFvg+VGZlFzC+BxUySmw==",
+								"AAeU3EfZlbJJ1O1BRa6yBg==",
+								"W1mKCsQ44qBJSnAz3iRSRw==",
+								"LPXuyL+oppdKcTRNqaZWQA==",
+								"DhBhlnrB8IBBTWPaVxW/xQ==",
+								"BCeYKtwKXpxCVTL3yMjlfQ==",
+								"2ZrsL8kF97lKFZhvbOdx2w==",
+								"nyFfyuvnt7pHxcfQfmx+fw==",
+								"cm/H6TEl45BOb5XpJcG2uA==",
+								"vxLkQfhhqYJDodfmpIGtQQ==",
+								"MlEQtwNlD45OG6qGkchpwQ=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Vision-Aurora-Coalescence",
+					"effects": [
+						{
+							"name": "Aura",
+							"guids": [
+								"T42JzSFgBaNBgt98Il+K4g==",
+								"omUadn6dPZBPuUMCO1OX/g==",
+								"oy4hGIu2w49H2K5qFXzghQ=="
+							],
+							"behaviors": [
+								{
+									"type": "Show",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Orbs",
+							"guids": [
+								"Ab9cElj88L9CnFVsYHo3iw==",
+								"vSgE27eM1YNDf/D4AkOaOA==",
+								"tRvV4p8wurZCeuWoDegMfA=="
+							],
+							"behaviors": [
+								{
+									"type": "Show",
+									"caster": "All"
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Prismatic Champion's Regalia",
+					"effects": [
+						{
+							"name": "Aura",
+							"guids": [
+								"crluJ5WT079KOAu7a0c2Ow==",
+								"u+i8h+N/jLpLqn8CAWJbzA=="
+							],
+							"behaviors": [
+								{
+									"type": "Show",
+									"caster": "All"
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Ancora",
+					"effects": [
+						{
+							"name": "Pax/Bellum Draw",
+							"guids": [
+								"blto9OBmco1IMEiKoENM/Q=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Bellum float",
+							"guids": [
+								"8sNqOGVMBL9OybYwDKzy/w=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Pax float",
+							"guids": [
+								"wfW0e104pKpA8Nngq7EX5g=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Pax/Bellum sphere",
+							"guids": [
+								"M+BCDP4sSaBH7KR5PdqCBw=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "Others"
+								}
+							]
+						},
+						{
+							"name": "Pax/Bellum arm aura",
+							"guids": [
+								"X6Lwld47OotBD5BQOr3Rhg==",
+								"UOnFksgRcI1OGifoGOTqNA=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						},
+						{
+							"name": "Pax/Bellum footsteps",
+							"guids": [
+								"G9BaX5o0KYFFqO7hLrCrCQ=="
+							],
+							"behaviors": [
+								{
+									"type": "Hide",
+									"caster": "All"
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}
